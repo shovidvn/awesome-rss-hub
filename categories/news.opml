@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>Awesome RSS - 📰 Global &amp; Regional News</title>
+  </head>
+  <body>
+    <outline text="📰 Global &amp; Regional News" title="📰 Global &amp; Regional News">
+      <outline type="rss" text="Wildlife | The Guardian" title="Wildlife | The Guardian" xmlUrl="https://www.theguardian.com/environment/wildlife/rss" htmlUrl=""/>
+      <outline type="rss" text="Architecture news and projects | Dezeen" title="Architecture news and projects | Dezeen" xmlUrl="https://www.dezeen.com/architecture/feed/" htmlUrl=""/>
+      <outline type="rss" text="Journal" title="Journal" xmlUrl="https://architizer.wpengine.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="The Architect’s Newspaper" title="The Architect’s Newspaper" xmlUrl="https://archpaper.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Chess News" title="Chess News" xmlUrl="https://en.chessbase.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Chess | The Guardian" title="Chess | The Guardian" xmlUrl="https://www.theguardian.com/sport/chess/rss" htmlUrl=""/>
+      <outline type="rss" text="Chess.com News" title="Chess.com News" xmlUrl="https://www.chess.com/rss/news" htmlUrl=""/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="http://feeds.bbci.co.uk/sport/cricket/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Cricket News Today, Latest Cricket Updates, Cricket Live Score, Upcoming Matches | Times of India" title="Cricket News Today, Latest Cricket Updates, Cricket Live Score, Upcoming Matches | Times of India" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/54829575.cms" htmlUrl=""/>
+      <outline type="rss" text="Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden" title="Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden" xmlUrl="https://www.wisden.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Cricket news from ESPN Cricinfo.com" title="Cricket news from ESPN Cricinfo.com" xmlUrl="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" htmlUrl=""/>
+      <outline type="rss" text="Cricket | The Guardian" title="Cricket | The Guardian" xmlUrl="https://www.theguardian.com/sport/cricket/rss" htmlUrl=""/>
+      <outline type="rss" text="Cricket | The Indian Express" title="Cricket | The Indian Express" xmlUrl="https://indianexpress.com/section/sports/cricket/feed/" htmlUrl=""/>
+      <outline type="rss" text="NDTV News Search Records Found 1000" title="NDTV News Search Records Found 1000" xmlUrl="http://feeds.feedburner.com/ndtvsports-cricket" htmlUrl=""/>
+      <outline type="rss" text="Fashion | The Guardian" title="Fashion | The Guardian" xmlUrl="https://www.theguardian.com/fashion/rss" htmlUrl=""/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/football/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Football News, Football Scores, Premier League, La Liga, ISL | The Hindu" title="Football News, Football Scores, Premier League, La Liga, ISL | The Hindu" xmlUrl="https://www.thehindu.com/sport/football/feeder/default.rss" htmlUrl=""/>
+      <outline type="rss" text="Football | The Guardian" title="Football | The Guardian" xmlUrl="https://www.theguardian.com/football/rss" htmlUrl=""/>
+      <outline type="rss" text="Soccer News" title="Soccer News" xmlUrl="https://www.soccernews.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Cracked: All Posts" title="Cracked: All Posts" xmlUrl="http://feeds.feedburner.com/CrackedRSS" htmlUrl=""/>
+      <outline type="rss" text="Steam RSS News Feed" title="Steam RSS News Feed" xmlUrl="https://store.steampowered.com/feeds/news.xml" htmlUrl=""/>
+      <outline type="rss" text="Latest from Ideal Home in News" title="Latest from Ideal Home in News" xmlUrl="https://www.idealhome.co.uk/feed" htmlUrl=""/>
+      <outline type="rss" text="Know Your Meme Newsfeed" title="Know Your Meme Newsfeed" xmlUrl="https://knowyourmeme.com/newsfeed.rss" htmlUrl=""/>
+      <outline type="rss" text="Movie News and Discussion" title="Movie News and Discussion" xmlUrl="https://reddit.com/r/movies/.rss" htmlUrl=""/>
+      <outline type="rss" text="RSS: News" title="RSS: News" xmlUrl="http://pitchfork.com/rss/news" htmlUrl=""/>
+      <outline type="rss" text="BBC News" title="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="CNN.com - RSS Channel - World" title="CNN.com - RSS Channel - World" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" htmlUrl=""/>
+      <outline type="rss" text="International: Top News And Analysis" title="International: Top News And Analysis" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" htmlUrl=""/>
+      <outline type="rss" text="NDTV News Search Records Found 1000" title="NDTV News Search Records Found 1000" xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; World News" title="NYT &gt; World News" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl=""/>
+      <outline type="rss" text="Top stories - Google News" title="Top stories - Google News" xmlUrl="https://news.google.com/rss" htmlUrl=""/>
+      <outline type="rss" text="World" title="World" xmlUrl="http://feeds.washingtonpost.com/rss/world" htmlUrl=""/>
+      <outline type="rss" text="World News" title="World News" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl=""/>
+      <outline type="rss" text="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" title="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" htmlUrl=""/>
+      <outline type="rss" text="World news | The Guardian" title="World news | The Guardian" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl=""/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Sport | The Guardian" title="Sport | The Guardian" xmlUrl="https://www.theguardian.com/uk/sport/rss" htmlUrl=""/>
+      <outline type="rss" text="Sports News - Latest Sports and Football News | Sky News" title="Sports News - Latest Sports and Football News | Sky News" xmlUrl="http://feeds.skynews.com/feeds/rss/sports.xml" htmlUrl=""/>
+      <outline type="rss" text="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" title="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/4719148.cms" htmlUrl=""/>
+      <outline type="rss" text="Sports | The Indian Express" title="Sports | The Indian Express" xmlUrl="https://indianexpress.com/section/sports/feed/" htmlUrl=""/>
+      <outline type="rss" text="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" title="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" xmlUrl="https://tvline.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="📺Television News and Discussion" title="📺Television News and Discussion" xmlUrl="https://reddit.com/r/television/.rss" htmlUrl=""/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="http://feeds.bbci.co.uk/sport/tennis/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Tennis News &amp; Discussion" title="Tennis News &amp; Discussion" xmlUrl="https://www.reddit.com/r/tennis/.rss" htmlUrl=""/>
+      <outline type="rss" text="Tennis News, Updates, Tennis Scores, ATP, WTA, Grand Slams | The Hindu" title="Tennis News, Updates, Tennis Scores, ATP, WTA, Grand Slams | The Hindu" xmlUrl="https://www.thehindu.com/sport/tennis/feeder/default.rss" htmlUrl=""/>
+      <outline type="rss" text="Tennis | The Guardian" title="Tennis | The Guardian" xmlUrl="https://www.theguardian.com/sport/tennis/rss" htmlUrl=""/>
+      <outline type="rss" text="Tennis | The Indian Express" title="Tennis | The Indian Express" xmlUrl="https://indianexpress.com/section/sports/tennis/feed/" htmlUrl=""/>
+      <outline type="rss" text="Travel | The Guardian" title="Travel | The Guardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" htmlUrl=""/>
+      <outline type="rss" text="Folha de S.Paulo - Em cima da hora - Principal" title="Folha de S.Paulo - Em cima da hora - Principal" xmlUrl="https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" htmlUrl=""/>
+      <outline type="rss" text="Portal EBC - RSS" title="Portal EBC - RSS" xmlUrl="http://www.ebc.com.br/rss/feed.xml" htmlUrl=""/>
+      <outline type="rss" text="R7 - Notícias" title="R7 - Notícias" xmlUrl="https://noticias.r7.com/feed.xml" htmlUrl=""/>
+      <outline type="rss" text="UOL" title="UOL" xmlUrl="http://rss.home.uol.com.br/index.xml" htmlUrl=""/>
+      <outline type="rss" text="The Rio Times" title="The Rio Times" xmlUrl="https://riotimesonline.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Brasil Wire" title="Brasil Wire" xmlUrl="http://www.brasilwire.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Jornal de Brasília" title="Jornal de Brasília" xmlUrl="https://jornaldebrasilia.com.br/feed/" htmlUrl=""/>
+      <outline type="rss" text="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" title="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" xmlUrl="http://newsfeed.zeit.de/index" htmlUrl=""/>
+      <outline type="rss" text="FOCUS Online" title="FOCUS Online" xmlUrl="https://rss.focus.de/fol/XML/rss_folnews.xml" htmlUrl=""/>
+      <outline type="rss" text="Aktuell - FAZ.NET" title="Aktuell - FAZ.NET" xmlUrl="https://www.faz.net/rss/aktuell/" htmlUrl=""/>
+      <outline type="rss" text="tagesschau.de - Die Nachrichten der ARD" title="tagesschau.de - Die Nachrichten der ARD" xmlUrl="http://www.tagesschau.de/xml/rss2" htmlUrl=""/>
+      <outline type="rss" text="Deutsche Welle" title="Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" htmlUrl=""/>
+      <outline type="rss" text="Republika Online RSS Feed" title="Republika Online RSS Feed" xmlUrl="https://www.republika.co.id/rss/" htmlUrl=""/>
+      <outline type="rss" text="Tribunnews.com" title="Tribunnews.com" xmlUrl="https://www.tribunnews.com/rss" htmlUrl=""/>
+      <outline type="rss" text="Merdeka.com" title="Merdeka.com" xmlUrl="https://www.merdeka.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Suara.com" title="Suara.com" xmlUrl="https://www.suara.com/rss" htmlUrl=""/>
+      <outline type="rss" text="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" title="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" xmlUrl="https://www.yjc.ir/fa/rss/allnews" htmlUrl=""/>
+      <outline type="rss" text="تابناک | TABNAK" title="تابناک | TABNAK" xmlUrl="https://www.tabnak.ir/fa/rss/allnews" htmlUrl=""/>
+      <outline type="rss" text="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" title="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" xmlUrl="https://www.isna.ir/rss" htmlUrl=""/>
+      <outline type="rss" text="خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency" title="خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency" xmlUrl="https://www.mehrnews.com/rss" htmlUrl=""/>
+      <outline type="rss" text="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" title="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" xmlUrl="https://www.khabaronline.ir/rss" htmlUrl=""/>
+      <outline type="rss" text="اخبار ایران و جهان" title="اخبار ایران و جهان" xmlUrl="https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85" htmlUrl=""/>
+      <outline type="rss" text="عصر ايران" title="عصر ايران" xmlUrl="https://www.asriran.com/fa/rss/allnews" htmlUrl=""/>
+      <outline type="rss" text="TheJournal.ie" title="TheJournal.ie" xmlUrl="https://www.thejournal.ie/feed/" htmlUrl=""/>
+      <outline type="rss" text="All: BreakingNews.ie" title="All: BreakingNews.ie" xmlUrl="https://feeds.breakingnews.ie/bntopstories" htmlUrl=""/>
+      <outline type="rss" text="The42" title="The42" xmlUrl="https://www.the42.ie/feed/" htmlUrl=""/>
+      <outline type="rss" text="IrishExaminer.com" title="IrishExaminer.com" xmlUrl="https://feeds.feedburner.com/ietopstories" htmlUrl=""/>
+      <outline type="rss" text="IrishCentral.com - Top Stories" title="IrishCentral.com - Top Stories" xmlUrl="https://feeds.feedburner.com/IrishCentral" htmlUrl=""/>
+      <outline type="rss" text="Irish Mirror - Home" title="Irish Mirror - Home" xmlUrl="https://www.irishmirror.ie/?service=rss" htmlUrl=""/>
+      <outline type="rss" text="Japan Times latest articles" title="Japan Times latest articles" xmlUrl="https://www.japantimes.co.jp/feed/topstories/" htmlUrl=""/>
+      <outline type="rss" text="Japan Today" title="Japan Today" xmlUrl="https://japantoday.com/feed" htmlUrl=""/>
+      <outline type="rss" text="News On Japan" title="News On Japan" xmlUrl="http://www.newsonjapan.com/rss/top.xml" htmlUrl=""/>
+      <outline type="rss" text="All - Kyodo News+" title="All - Kyodo News+" xmlUrl="https://english.kyodonews.net/rss/all.xml" htmlUrl=""/>
+      <outline type="rss" text="BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報" title="BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報" xmlUrl="http://feeds.feedburner.com/SdJapan" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Japan" title="NYT &gt; Japan" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="ライブドアニュース - 主要トピックス" title="ライブドアニュース - 主要トピックス" xmlUrl="https://news.livedoor.com/topics/rss/top.xml" htmlUrl=""/>
+      <outline type="rss" text="朝日新聞デジタル" title="朝日新聞デジタル" xmlUrl="http://rss.asahi.com/rss/asahi/newsheadlines.rdf" htmlUrl=""/>
+      <outline type="rss" text="Myanmar Gazette News Media Forum Network" title="Myanmar Gazette News Media Forum Network" xmlUrl="http://myanmargazette.net/feed" htmlUrl=""/>
+      <outline type="rss" text="DVB Multimedia Group" title="DVB Multimedia Group" xmlUrl="http://www.dvb.no/feed" htmlUrl=""/>
+      <outline type="rss" text="The Express Tribune" title="The Express Tribune" xmlUrl="https://tribune.com.pk/feed/home" htmlUrl=""/>
+      <outline type="rss" text="The Nation - Top Stories" title="The Nation - Top Stories" xmlUrl="https://nation.com.pk/rss/top-stories" htmlUrl=""/>
+      <outline type="rss" text="قومی خبریں" title="قومی خبریں" xmlUrl="https://jang.com.pk/rss/1/1" htmlUrl=""/>
+      <outline type="rss" text="The News International - Pakistan" title="The News International - Pakistan" xmlUrl="https://www.thenews.com.pk/rss/1/1" htmlUrl=""/>
+      <outline type="rss" text="UrduPoint.com All Urdu News" title="UrduPoint.com All Urdu News" xmlUrl="https://www.urdupoint.com/rss/urdupoint.rss" htmlUrl=""/>
+      <outline type="rss" text="ایکسپریس اردو" title="ایکسپریس اردو" xmlUrl="https://www.express.pk/feed/" htmlUrl=""/>
+      <outline type="rss" text="Najnowsze" title="Najnowsze" xmlUrl="http://feeds.feedburner.com/wPolitycepl" htmlUrl=""/>
+      <outline type="rss" text="Newsweek Polska" title="Newsweek Polska" xmlUrl="https://www.newsweek.pl/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Dziennik.pl Dziennik - dziennik.pl" title="Dziennik.pl Dziennik - dziennik.pl" xmlUrl="http://rss.dziennik.pl/Dziennik-PL/" htmlUrl=""/>
+      <outline type="rss" text="www.wirtualnemedia.pl" title="www.wirtualnemedia.pl" xmlUrl="https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml" htmlUrl=""/>
+      <outline type="rss" text="GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca" title="GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca" xmlUrl="http://rss.gazetaprawna.pl/GazetaPrawna" htmlUrl=""/>
+      <outline type="rss" text="https://www.rp.pl" title="https://www.rp.pl" xmlUrl="https://www.rp.pl/rss/1019" htmlUrl=""/>
+      <outline type="rss" text="Polska Agencja Prasowa SA" title="Polska Agencja Prasowa SA" xmlUrl="https://www.pap.pl/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="RMF24.pl" title="RMF24.pl" xmlUrl="https://www.rmf24.pl/feed" htmlUrl=""/>
+      <outline type="rss" text="SowetanLIVE" title="SowetanLIVE" xmlUrl="https://www.sowetanlive.co.za/rss/?publication=sowetan-live" htmlUrl=""/>
+      <outline type="rss" text="News24 Top Stories" title="News24 Top Stories" xmlUrl="http://feeds.news24.com/articles/news24/TopStories/rss" htmlUrl=""/>
+      <outline type="rss" text="Eyewitness News | Latest News" title="Eyewitness News | Latest News" xmlUrl="https://ewn.co.za/RSS%20Feeds/Latest%20News" htmlUrl=""/>
+      <outline type="rss" text="The Citizen" title="The Citizen" xmlUrl="https://citizen.co.za/feed/" htmlUrl=""/>
+      <outline type="rss" text="Moneyweb" title="Moneyweb" xmlUrl="https://www.moneyweb.co.za/feed/" htmlUrl=""/>
+      <outline type="rss" text="TimesLIVE" title="TimesLIVE" xmlUrl="https://www.timeslive.co.za/rss/" htmlUrl=""/>
+      <outline type="rss" text="The South African" title="The South African" xmlUrl="https://www.thesouthafrican.com/feed/" htmlUrl=""/>
+    </outline>
+  </body>
+</opml>

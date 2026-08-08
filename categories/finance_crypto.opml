@@ -1,0 +1,85 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>Awesome RSS - 📈 Business, Economy &amp; Cryptocurrency</title>
+  </head>
+  <body>
+    <outline text="📈 Business, Economy &amp; Cryptocurrency" title="📈 Business, Economy &amp; Cryptocurrency">
+      <outline type="rss" text="Content Marketing Institute" title="Content Marketing Institute" xmlUrl="http://feeds.feedburner.com/cmi-content-marketing" htmlUrl=""/>
+      <outline type="rss" text="MarketingProfs" title="MarketingProfs" xmlUrl="http://rss.marketingprofs.com/marketingprofs/daily" htmlUrl=""/>
+      <outline type="rss" text="Marketo Marketing blog" title="Marketo Marketing blog" xmlUrl="http://feeds.feedburner.com/modernb2bmarketing" htmlUrl=""/>
+      <outline type="rss" text="Social Media Examiner | Social Media Marketing" title="Social Media Examiner | Social Media Marketing" xmlUrl="http://www.socialmediaexaminer.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="All News" title="All News" xmlUrl="https://www.investing.com/rss/news.rss" htmlUrl=""/>
+      <outline type="rss" text="Bloomberg Originals" title="Bloomberg Originals" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Bloomberg" htmlUrl=""/>
+      <outline type="rss" text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" htmlUrl=""/>
+      <outline type="rss" text="Business Insider" title="Business Insider" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=businessinsider" htmlUrl=""/>
+      <outline type="rss" text="EconTalk" title="EconTalk" xmlUrl="https://feeds.simplecast.com/wgl4xEgL" htmlUrl=""/>
+      <outline type="rss" text="Economic Times" title="Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" htmlUrl=""/>
+      <outline type="rss" text="Forbes - Business" title="Forbes - Business" xmlUrl="https://www.forbes.com/business/feed/" htmlUrl=""/>
+      <outline type="rss" text="Fortune | FORTUNE" title="Fortune | FORTUNE" xmlUrl="https://fortune.com/feed" htmlUrl=""/>
+      <outline type="rss" text="HBR IdeaCast" title="HBR IdeaCast" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" htmlUrl=""/>
+      <outline type="rss" text="How I Built This with Guy Raz" title="How I Built This with Guy Raz" xmlUrl="https://feeds.npr.org/510313/podcast.xml" htmlUrl=""/>
+      <outline type="rss" text="Planet Money" title="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl=""/>
+      <outline type="rss" text="Startup Stories - Mixergy" title="Startup Stories - Mixergy" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" htmlUrl=""/>
+      <outline type="rss" text="The Blog of Author Tim Ferriss" title="The Blog of Author Tim Ferriss" xmlUrl="https://tim.blog/feed/" htmlUrl=""/>
+      <outline type="rss" text="The Duct Tape Marketing Podcast" title="The Duct Tape Marketing Podcast" xmlUrl="https://ducttape.libsyn.com/rss" htmlUrl=""/>
+      <outline type="rss" text="The Growth Show" title="The Growth Show" xmlUrl="http://thegrowthshow.hubspot.libsynpro.com/" htmlUrl=""/>
+      <outline type="rss" text="US Top News and Analysis" title="US Top News and Analysis" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" htmlUrl=""/>
+      <outline type="rss" text="Yahoo Finance" title="Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" htmlUrl=""/>
+      <outline type="rss" text="Bitcoin &amp; Crypto Trading: Ledger Cast" title="Bitcoin &amp; Crypto Trading: Ledger Cast" xmlUrl="https://feeds.simplecast.com/j5Cx9jps" htmlUrl=""/>
+      <outline type="rss" text="Bitcoin - The Currency of the Internet" title="Bitcoin - The Currency of the Internet" xmlUrl="https://www.reddit.com/r/Bitcoin/.rss" htmlUrl=""/>
+      <outline type="rss" text="Bitcoin Audible" title="Bitcoin Audible" xmlUrl="https://bitcoinaudible.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Bitcoin News" title="Bitcoin News" xmlUrl="https://news.bitcoin.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="BuyUcoin Talks - Medium" title="BuyUcoin Talks - Medium" xmlUrl="https://medium.com/feed/buyucoin-talks" htmlUrl=""/>
+      <outline type="rss" text="Cointelegraph.com News" title="Cointelegraph.com News" xmlUrl="https://cointelegraph.com/rss" htmlUrl=""/>
+      <outline type="rss" text="CryptoCurrency – Finance Magnates | Financial and business news" title="CryptoCurrency – Finance Magnates | Financial and business news" xmlUrl="https://www.financemagnates.com/cryptocurrency/feed/" htmlUrl=""/>
+      <outline type="rss" text="CryptoNinjas" title="CryptoNinjas" xmlUrl="https://www.cryptoninjas.net/feed/" htmlUrl=""/>
+      <outline type="rss" text="CryptoPotato" title="CryptoPotato" xmlUrl="https://cryptopotato.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Cryptocurrency News &amp; Discussion" title="Cryptocurrency News &amp; Discussion" xmlUrl="https://www.reddit.com/r/CryptoCurrency/.rss" htmlUrl=""/>
+      <outline type="rss" text="Ethereum" title="Ethereum" xmlUrl="https://www.reddit.com/r/ethereum/.rss" htmlUrl=""/>
+      <outline type="rss" text="Ethereum Foundation Blog" title="Ethereum Foundation Blog" xmlUrl="https://blog.ethereum.org/feed.xml" htmlUrl=""/>
+      <outline type="rss" text="INCRYPTED" title="INCRYPTED" xmlUrl="https://incrypted.net/feed/" htmlUrl=""/>
+      <outline type="rss" text="Interviews" title="Interviews" xmlUrl="https://feed.podbean.com/nuggetsnews/feed.xml" htmlUrl=""/>
+      <outline type="rss" text="Kraken Blog" title="Kraken Blog" xmlUrl="https://blog.kraken.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="News - Cryptonews" title="News - Cryptonews" xmlUrl="https://cryptonews.com/news/feed" htmlUrl=""/>
+      <outline type="rss" text="NewsBTC" title="NewsBTC" xmlUrl="https://www.newsbtc.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Stephan Livera Podcast" title="Stephan Livera Podcast" xmlUrl="https://anchor.fm/s/7d083a4/podcast/rss" htmlUrl=""/>
+      <outline type="rss" text="The Bad Crypto Podcast" title="The Bad Crypto Podcast" xmlUrl="https://badcryptopodcast.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="The Bitcoin Knowledge Podcast" title="The Bitcoin Knowledge Podcast" xmlUrl="https://www.bitcoin.kn/feed/podcast/" htmlUrl=""/>
+      <outline type="rss" text="The Bitcoin Podcast" title="The Bitcoin Podcast" xmlUrl="https://feeds.simplecast.com/xCQr3ykc" htmlUrl=""/>
+      <outline type="rss" text="The Market's Compass Technical View" title="The Market's Compass Technical View" xmlUrl="https://themarketscompass.substack.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Today in Web 3" title="Today in Web 3" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:844321453/sounds.rss" htmlUrl=""/>
+      <outline type="rss" text="ZebPay" title="ZebPay" xmlUrl="https://zebpay.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="cryptocurrency | TechCrunch" title="cryptocurrency | TechCrunch" xmlUrl="https://techcrunch.com/tag/cryptocurrency/feed" htmlUrl=""/>
+      <outline type="rss" text="Afford Anything®" title="Afford Anything®" xmlUrl="https://affordanything.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Afford Anything®" title="Afford Anything®" xmlUrl="https://feeds.feedburner.com/AffordAnythingFeed" htmlUrl=""/>
+      <outline type="rss" text="Budgets Are Sexy" title="Budgets Are Sexy" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" htmlUrl=""/>
+      <outline type="rss" text="Frugalwoods" title="Frugalwoods" xmlUrl="https://feeds.feedburner.com/Frugalwoods" htmlUrl=""/>
+      <outline type="rss" text="Good Financial Cents®" title="Good Financial Cents®" xmlUrl="https://www.goodfinancialcents.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Invest Like the Best with Patrick O'Shaughnessy" title="Invest Like the Best with Patrick O'Shaughnessy" xmlUrl="http://investlikethebest.libsyn.com/rss" htmlUrl=""/>
+      <outline type="rss" text="Learn To Trade The Market" title="Learn To Trade The Market" xmlUrl="https://www.learntotradethemarket.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Listen Money Matters - Free your inner financial badass. All the stuff you should know about personal finance." title="Listen Money Matters - Free your inner financial badass. All the stuff you should know about personal finance." xmlUrl="https://feeds.megaphone.fm/listen-money-matters" htmlUrl=""/>
+      <outline type="rss" text="Making Sense Of Cents" title="Making Sense Of Cents" xmlUrl="https://www.makingsenseofcents.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Millennial Money" title="Millennial Money" xmlUrl="https://millennialmoney.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Money Crashers" title="Money Crashers" xmlUrl="https://www.moneycrashers.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Money For the Rest of Us" title="Money For the Rest of Us" xmlUrl="https://rss.art19.com/money-for-the-rest-of-us" htmlUrl=""/>
+      <outline type="rss" text="Money Saving Mom®" title="Money Saving Mom®" xmlUrl="https://moneysavingmom.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Money Under 30" title="Money Under 30" xmlUrl="https://www.moneyunder30.com/feed" htmlUrl=""/>
+      <outline type="rss" text="MoneyNing" title="MoneyNing" xmlUrl="http://feeds.feedburner.com/MoneyNing" htmlUrl=""/>
+      <outline type="rss" text="MyWifeQuitHerJob.com" title="MyWifeQuitHerJob.com" xmlUrl="https://mywifequitherjob.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Nerd's Eye View | Kitces.com" title="Nerd's Eye View | Kitces.com" xmlUrl="http://feeds.feedblitz.com/kitcesnerdseyeview&amp;x=1" htmlUrl=""/>
+      <outline type="rss" text="NerdWallet" title="NerdWallet" xmlUrl="https://www.nerdwallet.com/blog/feed/" htmlUrl=""/>
+      <outline type="rss" text="Oblivious Investor" title="Oblivious Investor" xmlUrl="https://obliviousinvestor.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Personal Finance" title="Personal Finance" xmlUrl="https://reddit.com/r/personalfinance/.rss" htmlUrl=""/>
+      <outline type="rss" text="SavingAdvice.com Blog" title="SavingAdvice.com Blog" xmlUrl="https://www.savingadvice.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Side Hustle Nation" title="Side Hustle Nation" xmlUrl="https://www.sidehustlenation.com/feed" htmlUrl=""/>
+      <outline type="rss" text="So Money with Farnoosh Torabi" title="So Money with Farnoosh Torabi" xmlUrl="https://feeds.megaphone.fm/somoney" htmlUrl=""/>
+      <outline type="rss" text="The Clark Howard Podcast" title="The Clark Howard Podcast" xmlUrl="https://feeds.megaphone.fm/clarkhoward" htmlUrl=""/>
+      <outline type="rss" text="The College Investor" title="The College Investor" xmlUrl="https://thecollegeinvestor.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="The Ramsey Show" title="The Ramsey Show" xmlUrl="https://daveramsey.libsyn.com/rss" htmlUrl=""/>
+      <outline type="rss" text="The Stacking Benjamins Show" title="The Stacking Benjamins Show" xmlUrl="https://feeds.megaphone.fm/stacking-benjamins" htmlUrl=""/>
+      <outline type="rss" text="Well Kept Wallet" title="Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Wise Bread" title="Wise Bread" xmlUrl="http://feeds.killeraces.com/wisebread" htmlUrl=""/>
+    </outline>
+  </body>
+</opml>

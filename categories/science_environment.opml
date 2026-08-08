@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>Awesome RSS - 🔬 Science, Space &amp; Environment</title>
+  </head>
+  <body>
+    <outline text="🔬 Science, Space &amp; Environment" title="🔬 Science, Space &amp; Environment">
+      <outline type="rss" text="Love Nature" title="Love Nature" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRZPkuHwaoKwTP3CYPdVldg" htmlUrl=""/>
+      <outline type="rss" text="🔥 Nature Is Fucking Lit" title="🔥 Nature Is Fucking Lit" xmlUrl="https://www.reddit.com/r/NatureIsFuckingLit/.rss" htmlUrl=""/>
+      <outline type="rss" text="Bionic Planet: Reversing Climate Change by Restoring Nature" title="Bionic Planet: Reversing Climate Change by Restoring Nature" xmlUrl="https://bionicplanet.libsyn.com/rss" htmlUrl=""/>
+      <outline type="rss" text="Conservation International" title="Conservation International" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg" htmlUrl=""/>
+      <outline type="rss" text="Environment" title="Environment" xmlUrl="https://www.reddit.com/r/environment/.rss" htmlUrl=""/>
+      <outline type="rss" text="Environment + Energy – The Conversation" title="Environment + Energy – The Conversation" xmlUrl="https://theconversation.com/au/environment/articles.atom" htmlUrl=""/>
+      <outline type="rss" text="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" title="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/2647163.cms" htmlUrl=""/>
+      <outline type="rss" text="Environment | The Guardian" title="Environment | The Guardian" xmlUrl="https://www.theguardian.com/us/environment/rss" htmlUrl=""/>
+      <outline type="rss" text="Good Good Good" title="Good Good Good" xmlUrl="https://www.goodgoodgood.co/articles/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="NPR Topics: Environment" title="NPR Topics: Environment" xmlUrl="https://feeds.npr.org/1025/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Climate and Environment" title="NYT &gt; Climate and Environment" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml" htmlUrl=""/>
+      <outline type="rss" text="Prakati India" title="Prakati India" xmlUrl="https://www.prakati.in/feed/" htmlUrl=""/>
+      <outline type="rss" text="Vox" title="Vox" xmlUrl="https://www.vox.com/rss/energy-and-environment/index.xml" htmlUrl=""/>
+      <outline type="rss" text="BBC Earth" title="BBC Earth" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg" htmlUrl=""/>
+      <outline type="rss" text="BBC Earth Podcast" title="BBC Earth Podcast" xmlUrl="https://rss.acast.com/bbcearthpodcast" htmlUrl=""/>
+      <outline type="rss" text="EarthPorn: Amazing images of light and landscape" title="EarthPorn: Amazing images of light and landscape" xmlUrl="https://www.reddit.com/r/EarthPorn/.rss" htmlUrl=""/>
+      <outline type="rss" text="Explore Oceans" title="Explore Oceans" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSyg9cb3Iq-NtlbxqNB9wGw" htmlUrl=""/>
+      <outline type="rss" text="National Geographic" title="National Geographic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl=""/>
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="http://feeds.nature.com/nature/rss/current?x=1" htmlUrl=""/>
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.reddit.com/r/nature/.rss" htmlUrl=""/>
+      <outline type="rss" text="Nature Gifs" title="Nature Gifs" xmlUrl="https://www.reddit.com/r/NatureGifs/.rss" htmlUrl=""/>
+      <outline type="rss" text="Nature on PBS" title="Nature on PBS" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcBp_9YPyma4c3HTadmRJ3Q" htmlUrl=""/>
+      <outline type="rss" text="Reflections of the Natural World" title="Reflections of the Natural World" xmlUrl="https://reflectionsofthenaturalworld.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Stories Archives - Nature Canada" title="Stories Archives - Nature Canada" xmlUrl="https://naturecanada.ca/category/news/blog/feed/" htmlUrl=""/>
+      <outline type="rss" text="nature video" title="nature video" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7c8mE90qCtu11z47U0KErg" htmlUrl=""/>
+      <outline type="rss" text="BBC News" title="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Discovery" title="Discovery" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" htmlUrl=""/>
+      <outline type="rss" text="FlowingData" title="FlowingData" xmlUrl="https://flowingdata.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Gastropod" title="Gastropod" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss" htmlUrl=""/>
+      <outline type="rss" text="Invisibilia" title="Invisibilia" xmlUrl="https://feeds.npr.org/510307/podcast.xml" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Science" title="NYT &gt; Science" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl=""/>
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl=""/>
+      <outline type="rss" text="Popular Science" title="Popular Science" xmlUrl="https://www.popsci.com/arcio/rss/" htmlUrl=""/>
+      <outline type="rss" text="Probably Science" title="Probably Science" xmlUrl="https://probablyscience.libsyn.com/rss" htmlUrl=""/>
+      <outline type="rss" text="Radiolab" title="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" htmlUrl=""/>
+      <outline type="rss" text="Reddit Science" title="Reddit Science" xmlUrl="https://reddit.com/r/science/.rss" htmlUrl=""/>
+      <outline type="rss" text="Sawbones: A Marital Tour of Misguided Medicine" title="Sawbones: A Marital Tour of Misguided Medicine" xmlUrl="https://feeds.simplecast.com/y1LF_sn2" htmlUrl=""/>
+      <outline type="rss" text="Science" title="Science" xmlUrl="https://gizmodo.com/tag/science/rss" htmlUrl=""/>
+      <outline type="rss" text="Science Latest" title="Science Latest" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" htmlUrl=""/>
+      <outline type="rss" text="Scientific American Content: Global" title="Scientific American Content: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl=""/>
+      <outline type="rss" text="Shirtloads of Science" title="Shirtloads of Science" xmlUrl="https://shirtloadsofscience.libsyn.com/rss" htmlUrl=""/>
+      <outline type="rss" text="The Infinite Monkey Cage" title="The Infinite Monkey Cage" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" htmlUrl=""/>
+      <outline type="rss" text="This Week in Science – The Kickass Science Podcast" title="This Week in Science – The Kickass Science Podcast" xmlUrl="http://www.twis.org/feed/" htmlUrl=""/>
+      <outline type="rss" text="/r/space: news, articles and discussion" title="/r/space: news, articles and discussion" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" htmlUrl=""/>
+      <outline type="rss" text="Latest from Space.com" title="Latest from Space.com" xmlUrl="https://www.space.com/feeds/all" htmlUrl=""/>
+      <outline type="rss" text="NASA" title="NASA" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl=""/>
+      <outline type="rss" text="New Scientist - Space" title="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" htmlUrl=""/>
+      <outline type="rss" text="Space | The Guardian" title="Space | The Guardian" xmlUrl="https://www.theguardian.com/science/space/rss" htmlUrl=""/>
+      <outline type="rss" text="SpaceX" title="SpaceX" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=spacexchannel" htmlUrl=""/>
+    </outline>
+  </body>
+</opml>

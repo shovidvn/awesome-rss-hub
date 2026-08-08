@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>Awesome RSS - 💻 Programming &amp; Software Engineering</title>
+  </head>
+  <body>
+    <outline text="💻 Programming &amp; Software Engineering" title="💻 Programming &amp; Software Engineering">
+      <outline type="rss" text="Engineering – The GitHub Blog" title="Engineering – The GitHub Blog" xmlUrl="http://githubengineering.com/atom.xml" htmlUrl=""/>
+      <outline type="rss" text="Atlassian Developer Blog" title="Atlassian Developer Blog" xmlUrl="https://developer.atlassian.com/blog/feed.xml" htmlUrl=""/>
+      <outline type="rss" text="Dan Abramov's Overreacted Blog RSS Feed" title="Dan Abramov's Overreacted Blog RSS Feed" xmlUrl="https://overreacted.io/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Nvidia Developer Blog" title="Nvidia Developer Blog" xmlUrl="https://developer.nvidia.com/blog/feed" htmlUrl=""/>
+      <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="https://feeds.feedburner.com/CssTricks" htmlUrl=""/>
+      <outline type="rss" text="Digital Photography School" title="Digital Photography School" xmlUrl="https://feeds.feedburner.com/DigitalPhotographySchool" htmlUrl=""/>
+      <outline type="rss" text="Better Programming - Medium" title="Better Programming - Medium" xmlUrl="https://medium.com/feed/better-programming" htmlUrl=""/>
+      <outline type="rss" text="CodeNewbie" title="CodeNewbie" xmlUrl="http://feeds.codenewbie.org/cnpodcast.xml" htmlUrl=""/>
+      <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="https://feeds.feedburner.com/codinghorror" htmlUrl=""/>
+      <outline type="rss" text="Developer Tea" title="Developer Tea" xmlUrl="https://feeds.simplecast.com/dLRotFGk" htmlUrl=""/>
+      <outline type="rss" text="Etsy Engineering | Code as Craft" title="Etsy Engineering | Code as Craft" xmlUrl="https://codeascraft.com/feed/atom/" htmlUrl=""/>
+      <outline type="rss" text="FLOSS Weekly (Audio)" title="FLOSS Weekly (Audio)" xmlUrl="https://feeds.twit.tv/floss.xml" htmlUrl=""/>
+      <outline type="rss" text="GitLab" title="GitLab" xmlUrl="https://about.gitlab.com/atom.xml" htmlUrl=""/>
+      <outline type="rss" text="Google Developers Blog" title="Google Developers Blog" xmlUrl="http://feeds.feedburner.com/GDBcode" htmlUrl=""/>
+      <outline type="rss" text="Google TechTalks" title="Google TechTalks" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks" htmlUrl=""/>
+      <outline type="rss" text="Hanselminutes with Scott Hanselman" title="Hanselminutes with Scott Hanselman" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" htmlUrl=""/>
+      <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com" htmlUrl=""/>
+      <outline type="rss" text="Java, SQL and jOOQ." title="Java, SQL and jOOQ." xmlUrl="https://blog.jooq.org/feed" htmlUrl=""/>
+      <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl=""/>
+      <outline type="rss" text="Overflow - Buffer Resources" title="Overflow - Buffer Resources" xmlUrl="https://buffer.com/resources/overflow/rss/" htmlUrl=""/>
+      <outline type="rss" text="Programming Archives - The Crazy Programmer" title="Programming Archives - The Crazy Programmer" xmlUrl="https://www.thecrazyprogrammer.com/category/programming/feed" htmlUrl=""/>
+      <outline type="rss" text="Programming Throwdown" title="Programming Throwdown" xmlUrl="http://feeds.feedburner.com/ProgrammingThrowdown" htmlUrl=""/>
+      <outline type="rss" text="Robert Heaton | Blog" title="Robert Heaton | Blog" xmlUrl="https://robertheaton.com/feed.xml" htmlUrl=""/>
+      <outline type="rss" text="Scott Hanselman's Blog" title="Scott Hanselman's Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl=""/>
+      <outline type="rss" text="Scripting News" title="Scripting News" xmlUrl="http://scripting.com/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Software Defined Talk" title="Software Defined Talk" xmlUrl="https://feeds.fireside.fm/sdt/rss" htmlUrl=""/>
+      <outline type="rss" text="Software Engineering Radio - The Podcast for Professional Software Developers" title="Software Engineering Radio - The Podcast for Professional Software Developers" xmlUrl="http://feeds.feedburner.com/se-radio" htmlUrl=""/>
+      <outline type="rss" text="SoundCloud Backstage Blog" title="SoundCloud Backstage Blog" xmlUrl="https://developers.soundcloud.com/blog/blog.rss" htmlUrl=""/>
+      <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="https://labs.spotify.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Stack Abuse" title="Stack Abuse" xmlUrl="https://stackabuse.com/rss/" htmlUrl=""/>
+      <outline type="rss" text="Stack Overflow Blog" title="Stack Overflow Blog" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl=""/>
+      <outline type="rss" text="The 6 Figure Developer" title="The 6 Figure Developer" xmlUrl="http://6figuredev.com/feed/rss/" htmlUrl=""/>
+      <outline type="rss" text="The Cynical Developer" title="The Cynical Developer" xmlUrl="https://cynicaldeveloper.com/feed/podcast" htmlUrl=""/>
+      <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.blog/feed/" htmlUrl=""/>
+      <outline type="rss" text="The PIT Show: Reflections and Interviews in the Tech World" title="The PIT Show: Reflections and Interviews in the Tech World" xmlUrl="https://feeds.transistor.fm/productivity-in-tech-podcast" htmlUrl=""/>
+      <outline type="rss" text="The Stack Overflow Podcast" title="The Stack Overflow Podcast" xmlUrl="https://feeds.simplecast.com/XA_851k3" htmlUrl=""/>
+      <outline type="rss" text="The Women in Tech Show: A Technical Podcast" title="The Women in Tech Show: A Technical Podcast" xmlUrl="https://thewomenintechshow.com/category/podcast/feed/" htmlUrl=""/>
+      <outline type="rss" text="programming" title="programming" xmlUrl="https://www.reddit.com/r/programming/.rss" htmlUrl=""/>
+      <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Boxes and Arrows" title="Boxes and Arrows" xmlUrl="http://boxesandarrows.com/rss/" htmlUrl=""/>
+      <outline type="rss" text="JUST™ Creative" title="JUST™ Creative" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" htmlUrl=""/>
+      <outline type="rss" text="UX Movement" title="UX Movement" xmlUrl="https://uxmovement.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Usability Geek" title="Usability Geek" xmlUrl="https://usabilitygeek.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="User Experience" title="User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" htmlUrl=""/>
+      <outline type="rss" text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" xmlUrl="https://alistapart.com/main/feed/" htmlUrl=""/>
+      <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Code Wall" title="Code Wall" xmlUrl="https://www.codewall.co.uk/feed/" htmlUrl=""/>
+      <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="https://davidwalsh.name/feed" htmlUrl=""/>
+    </outline>
+  </body>
+</opml>

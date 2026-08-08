@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>Awesome RSS - 🤖 AI &amp; Machine Learning</title>
+  </head>
+  <body>
+    <outline text="🤖 AI &amp; Machine Learning" title="🤖 AI &amp; Machine Learning">
+      <outline type="rss" text="The Airtable Engineering Blog" title="The Airtable Engineering Blog" xmlUrl="https://medium.com/feed/airtable-eng" htmlUrl=""/>
+      <outline type="rss" text="The Airbnb Tech Blog - Medium" title="The Airbnb Tech Blog - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl=""/>
+      <outline type="rss" text="Machine Learning Blog | ML@CMU | Carnegie Mellon University" title="Machine Learning Blog | ML@CMU | Carnegie Mellon University" xmlUrl="https://blog.ml.cmu.edu/feed/" htmlUrl=""/>
+      <outline type="rss" text="DeepMind" title="DeepMind" xmlUrl="https://deepmind.com/blog/feed/basic/" htmlUrl=""/>
+      <outline type="rss" text="DeepLearningAI" title="DeepLearningAI" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcIXc5mJsHVYTZR1maL5l9w" htmlUrl=""/>
+      <outline type="rss" text="OpenAI" title="OpenAI" xmlUrl="https://openai.com/news/engineering/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl=""/>
+      <outline type="rss" text="Unite.AI" title="Unite.AI" xmlUrl="https://www.unite.ai/feed/" htmlUrl=""/>
+      <outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://www.reddit.com/r/MachineLearning/.rss" htmlUrl=""/>
+      <outline type="rss" text="Airbnb Design" title="Airbnb Design" xmlUrl="http://airbnb.design/feed/" htmlUrl=""/>
+      <outline type="rss" text="UX Daily - User Experience Daily" title="UX Daily - User Experience Daily" xmlUrl="https://interaction-design.org/rss/site_news.xml" htmlUrl=""/>
+      <outline type="rss" text="Neuroscience News -- ScienceDaily" title="Neuroscience News -- ScienceDaily" xmlUrl="https://sciencedaily.com/rss/mind_brain/neuroscience.xml" htmlUrl=""/>
+      <outline type="rss" text="SharpBrains" title="SharpBrains" xmlUrl="http://www.sharpbrains.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="TED Talks Daily (SD video)" title="TED Talks Daily (SD video)" xmlUrl="http://feeds.feedburner.com/tedtalks_video" htmlUrl=""/>
+      <outline type="rss" text="Android in The Airbnb Tech Blog on Medium" title="Android in The Airbnb Tech Blog on Medium" xmlUrl="https://medium.com/feed/airbnb-engineering/tagged/android" htmlUrl=""/>
+      <outline type="rss" text="Company | The JetBrains Blog" title="Company | The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed" htmlUrl=""/>
+      <outline type="rss" text="Fragmented - AI Developer Podcast" title="Fragmented - AI Developer Podcast" xmlUrl="https://feeds.simplecast.com/LpAGSLnY" htmlUrl=""/>
+      <outline type="rss" text="OS X Daily" title="OS X Daily" xmlUrl="http://feeds.feedburner.com/osxdaily" htmlUrl=""/>
+      <outline type="rss" text="ArchDaily Global" title="ArchDaily Global" xmlUrl="http://feeds.feedburner.com/Archdaily" htmlUrl=""/>
+      <outline type="rss" text="The best vintage and classic cars for sale online | Bring a Trailer" title="The best vintage and classic cars for sale online | Bring a Trailer" xmlUrl="https://bringatrailer.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Tailenders" title="Tailenders" xmlUrl="https://podcasts.files.bbci.co.uk/p02pcb4w.rss" htmlUrl=""/>
+      <outline type="rss" text="DailyCoin" title="DailyCoin" xmlUrl="https://dailycoin.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Epicenter - Learn about Crypto, Blockchain, Ethereum, Bitcoin and Distributed Technologies" title="Epicenter - Learn about Crypto, Blockchain, Ethereum, Bitcoin and Distributed Technologies" xmlUrl="https://feeds.simplecast.com/lKmQDG9R" htmlUrl=""/>
+      <outline type="rss" text="CyberWire Daily" title="CyberWire Daily" xmlUrl="https://feeds.megaphone.fm/cyberwire-daily-podcast" htmlUrl=""/>
+      <outline type="rss" text="Security Affairs" title="Security Affairs" xmlUrl="http://securityaffairs.co/wordpress/feed" htmlUrl=""/>
+      <outline type="rss" text="FAIL Blog" title="FAIL Blog" xmlUrl="http://feeds.feedburner.com/failblog" htmlUrl=""/>
+      <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl=""/>
+      <outline type="rss" text="Ain't It Cool News Feed" title="Ain't It Cool News Feed" xmlUrl="https://www.aintitcool.com/node/feed/" htmlUrl=""/>
+      <outline type="rss" text="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" title="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" xmlUrl="https://www.comingsoon.net/feed" htmlUrl=""/>
+      <outline type="rss" text="Financial Samurai" title="Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Podcast Archives - Software Engineering Daily" title="Podcast Archives - Software Engineering Daily" xmlUrl="https://softwareengineeringdaily.com/category/podcast/feed" htmlUrl=""/>
+      <outline type="rss" text="The JetBrains Blog" title="The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Hidden Brain" title="Hidden Brain" xmlUrl="https://feeds.npr.org/510308/podcast.xml" htmlUrl=""/>
+      <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl=""/>
+      <outline type="rss" text="TED Talks Daily" title="TED Talks Daily" xmlUrl="https://pa.tedcdn.com/feeds/talks.rss" htmlUrl=""/>
+      <outline type="rss" text="Sink In - Tech Learnings" title="Sink In - Tech Learnings" xmlUrl="https://gosink.in/rss/" htmlUrl=""/>
+      <outline type="rss" text="THIT HTOO LWIN (Daily News)" title="THIT HTOO LWIN (Daily News)" xmlUrl="http://www.thithtoolwin.com/feeds/posts/default" htmlUrl=""/>
+      <outline type="rss" text="Daily Maverick" title="Daily Maverick" xmlUrl="https://www.dailymaverick.co.za/dmrss/" htmlUrl=""/>
+      <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/es" htmlUrl=""/>
+      <outline type="rss" text="EL PAÍS: el periódico global" title="EL PAÍS: el periódico global" xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" htmlUrl=""/>
+      <outline type="rss" text="España" title="España" xmlUrl="https://rss.elconfidencial.com/espana/" htmlUrl=""/>
+      <outline type="rss" text="ElDiario.es - ElDiario.es" title="ElDiario.es - ElDiario.es" xmlUrl="https://www.eldiario.es/rss/" htmlUrl=""/>
+      <outline type="rss" text="Portada // expansion" title="Portada // expansion" xmlUrl="https://e00-expansion.uecdn.es/rss/portada.xml" htmlUrl=""/>
+      <outline type="rss" text="El Periódico - portada" title="El Periódico - portada" xmlUrl="https://www.elperiodico.com/es/rss/rss_portada.xml" htmlUrl=""/>
+      <outline type="rss" text="huffingtonpost.es" title="huffingtonpost.es" xmlUrl="https://www.huffingtonpost.es/feeds/index.xml" htmlUrl=""/>
+      <outline type="rss" text="Euro Weekly News Spain" title="Euro Weekly News Spain" xmlUrl="https://www.euroweeklynews.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Agencia EFE | www.efe.com | English edition" title="Agencia EFE | www.efe.com | English edition" xmlUrl="https://www.efe.com/efe/english/4/rss" htmlUrl=""/>
+      <outline type="rss" text="News Agency UNIAN" title="News Agency UNIAN" xmlUrl="https://rss.unian.net/site/news_eng.rss" htmlUrl=""/>
+      <outline type="rss" text="ТЕЛЕГРАФ - последние новости Украины и мира" title="ТЕЛЕГРАФ - последние новости Украины и мира" xmlUrl="https://telegraf.com.ua/yandex-feed/" htmlUrl=""/>
+      <outline type="rss" text="Последние новости на сайте korrespondent.net" title="Последние новости на сайте korrespondent.net" xmlUrl="http://k.img.com.ua/rss/ru/all_news2.0.xml" htmlUrl=""/>
+      <outline type="rss" text="Цензор.НЕТ - Новости" title="Цензор.НЕТ - Новости" xmlUrl="https://censor.net.ua/includes/news_ru.xml" htmlUrl=""/>
+      <outline type="rss" text="Новини на tsn.ua" title="Новини на tsn.ua" xmlUrl="https://tsn.ua/rss/full.rss" htmlUrl=""/>
+      <outline type="rss" text="Українська правда" title="Українська правда" xmlUrl="https://www.pravda.com.ua/rss/" htmlUrl=""/>
+      <outline type="rss" text="Гордон - Самые популярные материалы" title="Гордон - Самые популярные материалы" xmlUrl="https://gordonua.com/xml/rss_category/top.html" htmlUrl=""/>
+      <outline type="rss" text="НВ" title="НВ" xmlUrl="https://nv.ua/rss/all.xml" htmlUrl=""/>
+      <outline type="rss" text="Информационное агентство УНИАН" title="Информационное агентство УНИАН" xmlUrl="https://rss.unian.net/site/news_rus.rss" htmlUrl=""/>
+      <outline type="rss" text="Еспресо - український погляд на світ!" title="Еспресо - український погляд на світ!" xmlUrl="https://espreso.tv/rss" htmlUrl=""/>
+      <outline type="rss" text="Gazeta.ua" title="Gazeta.ua" xmlUrl="https://gazeta.ua/rss" htmlUrl=""/>
+      <outline type="rss" text="Вести.ua" title="Вести.ua" xmlUrl="https://vesti.ua/feeds/partners" htmlUrl=""/>
+      <outline type="rss" text="ai_first_podcast" title="ai_first_podcast" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ai_first_podcast.xml" htmlUrl="https://ai-first.ai/podcast"/>
+      <outline type="rss" text="anthropic_eng" title="anthropic_eng" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_eng.xml" htmlUrl="https://www.anthropic.com/engineering"/>
+      <outline type="rss" text="anthropic_news" title="anthropic_news" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" htmlUrl="https://www.anthropic.com/news"/>
+      <outline type="rss" text="anthropic_red" title="anthropic_red" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml" htmlUrl="https://red.anthropic.com/"/>
+      <outline type="rss" text="anthropic_research" title="anthropic_research" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml" htmlUrl="https://www.anthropic.com/research"/>
+      <outline type="rss" text="blogsurgeai" title="blogsurgeai" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_blogsurgeai.xml" htmlUrl="https://www.surgehq.ai/blog"/>
+      <outline type="rss" text="chanderramesh" title="chanderramesh" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_chanderramesh.xml" htmlUrl="https://chanderramesh.com/writing"/>
+      <outline type="rss" text="claude" title="claude" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml" htmlUrl="https://claude.com/blog"/>
+      <outline type="rss" text="cohere" title="cohere" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml" htmlUrl="https://cohere.com/blog"/>
+      <outline type="rss" text="cursor" title="cursor" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml" htmlUrl="https://cursor.com/blog"/>
+      <outline type="rss" text="dagster" title="dagster" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_dagster.xml" htmlUrl="https://dagster.io/blog"/>
+      <outline type="rss" text="google_ai" title="google_ai" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_google_ai.xml" htmlUrl="https://developers.googleblog.com/search/?technology_categories=AI"/>
+      <outline type="rss" text="groq" title="groq" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_groq.xml" htmlUrl="https://groq.com/blog/"/>
+      <outline type="rss" text="meta_ai" title="meta_ai" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml" htmlUrl="https://ai.meta.com/blog/"/>
+      <outline type="rss" text="mistral" title="mistral" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml" htmlUrl="https://mistral.ai/news"/>
+      <outline type="rss" text="ollama" title="ollama" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ollama.xml" htmlUrl="https://ollama.com/blog"/>
+      <outline type="rss" text="paulgraham" title="paulgraham" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_paulgraham.xml" htmlUrl="https://paulgraham.com/articles.html"/>
+      <outline type="rss" text="perplexity_hub" title="perplexity_hub" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml" htmlUrl="https://www.perplexity.ai/hub"/>
+      <outline type="rss" text="pinecone" title="pinecone" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_pinecone.xml" htmlUrl="https://www.pinecone.io/blog/"/>
+      <outline type="rss" text="the_batch" title="the_batch" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_the_batch.xml" htmlUrl="https://www.deeplearning.ai/the-batch/"/>
+      <outline type="rss" text="weaviate" title="weaviate" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_weaviate.xml" htmlUrl="https://weaviate.io/blog"/>
+      <outline type="rss" text="windsurf_blog" title="windsurf_blog" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_windsurf_blog.xml" htmlUrl="https://windsurf.com/blog"/>
+      <outline type="rss" text="windsurf_changelog" title="windsurf_changelog" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_windsurf_changelog.xml" htmlUrl="https://windsurf.com/changelog"/>
+      <outline type="rss" text="windsurf_next_changelog" title="windsurf_next_changelog" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_windsurf_next_changelog.xml" htmlUrl="https://windsurf.com/changelog/windsurf-next"/>
+      <outline type="rss" text="xainews" title="xainews" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml" htmlUrl="https://x.ai/news"/>
+    </outline>
+  </body>
+</opml>

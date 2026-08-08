@@ -1,0 +1,187 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>Awesome RSS - 🎨 Culture, Entertainment &amp; Lifestyle</title>
+  </head>
+  <body>
+    <outline text="🎨 Culture, Entertainment &amp; Lifestyle" title="🎨 Culture, Entertainment &amp; Lifestyle">
+      <outline type="rss" text="Active Wild" title="Active Wild" xmlUrl="https://www.activewild.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Focusing on Wildlife" title="Focusing on Wildlife" xmlUrl="https://focusingonwildlife.com/news/feed/" htmlUrl=""/>
+      <outline type="rss" text="Real Wild" title="Real Wild" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCbq-4OJxnziD3awH-aTezeA" htmlUrl=""/>
+      <outline type="rss" text="The Wildlife India" title="The Wildlife India" xmlUrl="https://www.thewildlifeindia.com/feeds/posts/default" htmlUrl=""/>
+      <outline type="rss" text="Wildlife Photography: Gear, Photos &amp; Discussion" title="Wildlife Photography: Gear, Photos &amp; Discussion" xmlUrl="https://www.reddit.com/r/wildlifephotography/.rss" htmlUrl=""/>
+      <outline type="rss" text="A Weekly Dose of Architecture Books" title="A Weekly Dose of Architecture Books" xmlUrl="http://feeds.feedburner.com/archidose" htmlUrl=""/>
+      <outline type="rss" text="Architectural Digest" title="Architectural Digest" xmlUrl="https://www.architecturaldigest.com/feed/rss" htmlUrl=""/>
+      <outline type="rss" text="Architectural Digest" title="Architectural Digest" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest" htmlUrl=""/>
+      <outline type="rss" text="Architecture" title="Architecture" xmlUrl="https://www.reddit.com/r/architecture/.rss" htmlUrl=""/>
+      <outline type="rss" text="Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk" title="Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk" xmlUrl="https://design-milk.com/category/architecture/feed/" htmlUrl=""/>
+      <outline type="rss" text="Living Big In A Tiny House" title="Living Big In A Tiny House" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse" htmlUrl=""/>
+      <outline type="rss" text="architecture archives | designboom | architecture &amp; design magazine" title="architecture archives | designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/architecture/feed/" htmlUrl=""/>
+      <outline type="rss" text="Beauty - ELLE" title="Beauty - ELLE" xmlUrl="https://www.elle.com/rss/beauty.xml/" htmlUrl=""/>
+      <outline type="rss" text="Fashionista Full" title="Fashionista Full" xmlUrl="https://fashionista.com/.rss/excerpt/beauty" htmlUrl=""/>
+      <outline type="rss" text="From Head To Toe" title="From Head To Toe" xmlUrl="http://feeds.feedburner.com/frmheadtotoe" htmlUrl=""/>
+      <outline type="rss" text="POPSUGAR Beauty" title="POPSUGAR Beauty" xmlUrl="https://www.popsugar.com/beauty/feed" htmlUrl=""/>
+      <outline type="rss" text="Refinery29" title="Refinery29" xmlUrl="https://www.refinery29.com/beauty/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="The Beauty Look Book" title="The Beauty Look Book" xmlUrl="https://thebeautylookbook.com/feed" htmlUrl=""/>
+      <outline type="rss" text="A year of reading the world" title="A year of reading the world" xmlUrl="https://ayearofreadingtheworld.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="BOOK RIOT" title="BOOK RIOT" xmlUrl="https://bookriot.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Harry Potter and the Sacred Text" title="Harry Potter and the Sacred Text" xmlUrl="https://rss.acast.com/harrypottersacredtext" htmlUrl=""/>
+      <outline type="rss" text="Kirkus Reviews" title="Kirkus Reviews" xmlUrl="https://www.kirkusreviews.com/feeds/rss/" htmlUrl=""/>
+      <outline type="rss" text="NewInBooks" title="NewInBooks" xmlUrl="https://www.newinbooks.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="So many books, so little time" title="So many books, so little time" xmlUrl="https://reddit.com/r/books/.rss" htmlUrl=""/>
+      <outline type="rss" text="Wokeread" title="Wokeread" xmlUrl="https://wokeread.home.blog/feed/" htmlUrl=""/>
+      <outline type="rss" text="Autocar RSS Feed" title="Autocar RSS Feed" xmlUrl="https://www.autocar.co.uk/rss" htmlUrl=""/>
+      <outline type="rss" text="BikeEXIF" title="BikeEXIF" xmlUrl="https://www.bikeexif.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Car Body Design" title="Car Body Design" xmlUrl="https://www.carbodydesign.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Carscoops" title="Carscoops" xmlUrl="https://www.carscoops.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Formula 1" title="Formula 1" xmlUrl="https://www.reddit.com/r/formula1/.rss" htmlUrl=""/>
+      <outline type="rss" text="Jalopnik - Obsessed with the culture of cars" title="Jalopnik - Obsessed with the culture of cars" xmlUrl="https://jalopnik.com/rss" htmlUrl=""/>
+      <outline type="rss" text="Latest Content - Car and Driver" title="Latest Content - Car and Driver" xmlUrl="https://www.caranddriver.com/rss/all.xml/" htmlUrl=""/>
+      <outline type="rss" text="Speedhunters" title="Speedhunters" xmlUrl="http://feeds.feedburner.com/speedhunters" htmlUrl=""/>
+      <outline type="rss" text="TheTruthAboutCars" title="TheTruthAboutCars" xmlUrl="https://www.thetruthaboutcars.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Better Chess" title="Better Chess" xmlUrl="https://betterchess.net/feed/" htmlUrl=""/>
+      <outline type="rss" text="Chess Talk" title="Chess Talk" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6HDXr-sNPnWLF_Q-y3KduA" htmlUrl=""/>
+      <outline type="rss" text="Chess.com" title="Chess.com" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=wwwChesscom" htmlUrl=""/>
+      <outline type="rss" text="ChessBase India" title="ChessBase India" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIsEhwBMPkRHsEgqYAPQHsA" htmlUrl=""/>
+      <outline type="rss" text="For the budding patzer" title="For the budding patzer" xmlUrl="https://www.reddit.com/r/chessbeginners/.rss" htmlUrl=""/>
+      <outline type="rss" text="Perpetual Chess Podcast" title="Perpetual Chess Podcast" xmlUrl="https://feeds.megaphone.fm/BLU4811105299" htmlUrl=""/>
+      <outline type="rss" text="The Week in Chess" title="The Week in Chess" xmlUrl="https://theweekinchess.com/twic-rss-feed" htmlUrl=""/>
+      <outline type="rss" text="agadmator's Chess Channel" title="agadmator's Chess Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA" htmlUrl=""/>
+      <outline type="rss" text="chess24" title="chess24" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=chess24media" htmlUrl=""/>
+      <outline type="rss" text="r/Chess" title="r/Chess" xmlUrl="https://www.reddit.com/r/chess/.rss" htmlUrl=""/>
+      <outline type="rss" text="thechesswebsite" title="thechesswebsite" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=thechesswebsite" htmlUrl=""/>
+      <outline type="rss" text="Can't Bowl Can't Throw Cricket Show" title="Can't Bowl Can't Throw Cricket Show" xmlUrl="http://feeds.feedburner.com/cantbowlcantthrow" htmlUrl=""/>
+      <outline type="rss" text="Cricbuzz" title="Cricbuzz" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw" htmlUrl=""/>
+      <outline type="rss" text="Cricket" title="Cricket" xmlUrl="https://www.reddit.com/r/Cricket/.rss" htmlUrl=""/>
+      <outline type="rss" text="Cricket – The Roar" title="Cricket – The Roar" xmlUrl="https://www.theroar.com.au/cricket/feed/" htmlUrl=""/>
+      <outline type="rss" text="England &amp; Wales Cricket Board" title="England &amp; Wales Cricket Board" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ecbcricket" htmlUrl=""/>
+      <outline type="rss" text="Pakistan Cricket" title="Pakistan Cricket" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw" htmlUrl=""/>
+      <outline type="rss" text="Sri Lanka Cricket" title="Sri Lanka Cricket" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC" htmlUrl=""/>
+      <outline type="rss" text="Stumped" title="Stumped" xmlUrl="https://podcasts.files.bbci.co.uk/p02gsrmh.rss" htmlUrl=""/>
+      <outline type="rss" text="Switch Hit Podcast" title="Switch Hit Podcast" xmlUrl="https://feeds.megaphone.fm/ESP9247246951" htmlUrl=""/>
+      <outline type="rss" text="Test Match Special" title="Test Match Special" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrsl2.rss" htmlUrl=""/>
+      <outline type="rss" text="cricket.com.au" title="cricket.com.au" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv" htmlUrl=""/>
+      <outline type="rss" text="A Beautiful Mess" title="A Beautiful Mess" xmlUrl="https://abeautifulmess.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Centsational Style" title="Centsational Style" xmlUrl="https://centsationalstyle.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="How-To Geek" title="How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="MakeUseOf" title="MakeUseOf" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Oh Happy Day!" title="Oh Happy Day!" xmlUrl="http://ohhappyday.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="WonderHowTo" title="WonderHowTo" xmlUrl="https://www.wonderhowto.com/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="" title="" xmlUrl="https://www.fashionbeans.com/rss-feed/?category=fashion" htmlUrl=""/>
+      <outline type="rss" text="Fashion - ELLE" title="Fashion - ELLE" xmlUrl="https://www.elle.com/rss/fashion.xml/" htmlUrl=""/>
+      <outline type="rss" text="Fashionista Full" title="Fashionista Full" xmlUrl="https://fashionista.com/.rss/excerpt/" htmlUrl=""/>
+      <outline type="rss" text="Latest from Who What Wear" title="Latest from Who What Wear" xmlUrl="https://www.whowhatwear.com/rss" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Style" title="NYT &gt; Style" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml" htmlUrl=""/>
+      <outline type="rss" text="POPSUGAR Fashion" title="POPSUGAR Fashion" xmlUrl="https://www.popsugar.com/fashion/feed" htmlUrl=""/>
+      <outline type="rss" text="Refinery29" title="Refinery29" xmlUrl="https://www.refinery29.com/fashion/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Binging with Babish" title="Binging with Babish" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=bgfilms" htmlUrl=""/>
+      <outline type="rss" text="Bon Appétit" title="Bon Appétit" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom" htmlUrl=""/>
+      <outline type="rss" text="Budget Bytes" title="Budget Bytes" xmlUrl="http://budgetbytes.blogspot.com/feeds/posts/default" htmlUrl=""/>
+      <outline type="rss" text="Chocolate &amp; Zucchini" title="Chocolate &amp; Zucchini" xmlUrl="https://cnz.to/feed/" htmlUrl=""/>
+      <outline type="rss" text="David Lebovitz" title="David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Dinner: A Love Story" title="Dinner: A Love Story" xmlUrl="http://www.dinneralovestory.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Food52" title="Food52" xmlUrl="http://feeds.feedburner.com/food52-TheAandMBlog" htmlUrl=""/>
+      <outline type="rss" text="Green Kitchen Stories" title="Green Kitchen Stories" xmlUrl="https://greenkitchenstories.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="How Sweet Eats" title="How Sweet Eats" xmlUrl="https://www.howsweeteats.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Kitchn | Inspiring cooks, nourishing homes" title="Kitchn | Inspiring cooks, nourishing homes" xmlUrl="https://www.thekitchn.com/main.rss" htmlUrl=""/>
+      <outline type="rss" text="Laura in the Kitchen" title="Laura in the Kitchen" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen" htmlUrl=""/>
+      <outline type="rss" text="Love and Lemons" title="Love and Lemons" xmlUrl="http://www.loveandlemons.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Love and Olive Oil" title="Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Food" title="NYT &gt; Food" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" htmlUrl=""/>
+      <outline type="rss" text="Serious Eats" title="Serious Eats" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=SeriousEats" htmlUrl=""/>
+      <outline type="rss" text="Serious Eats: Recipes" title="Serious Eats: Recipes" xmlUrl="http://feeds.feedburner.com/seriouseats/recipes" htmlUrl=""/>
+      <outline type="rss" text="Shutterbean" title="Shutterbean" xmlUrl="http://www.shutterbean.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Sprouted Kitchen" title="Sprouted Kitchen" xmlUrl="https://www.sproutedkitchen.com/home?format=rss" htmlUrl=""/>
+      <outline type="rss" text="smitten kitchen" title="smitten kitchen" xmlUrl="http://feeds.feedburner.com/smittenkitchen" htmlUrl=""/>
+      <outline type="rss" text="CNN.com - RSS Channel - Sport - Football" title="CNN.com - RSS Channel - Sport - Football" xmlUrl="http://rss.cnn.com/rss/edition_football.rss" htmlUrl=""/>
+      <outline type="rss" text="EFL Championship" title="EFL Championship" xmlUrl="https://www.reddit.com/r/Championship/.rss?format=xml" htmlUrl=""/>
+      <outline type="rss" text="Football - The People's Sport" title="Football - The People's Sport" xmlUrl="https://www.reddit.com/r/football/.rss?format=xml" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Sports &gt; Soccer" title="NYT &gt; Sports &gt; Soccer" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml" htmlUrl=""/>
+      <outline type="rss" text="Explosm.net" title="Explosm.net" xmlUrl="http://feeds.feedburner.com/Explosm" htmlUrl=""/>
+      <outline type="rss" text="I Can Has Cheezburger?" title="I Can Has Cheezburger?" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" htmlUrl=""/>
+      <outline type="rss" text="PHD Comics" title="PHD Comics" xmlUrl="http://phdcomics.com/gradfeed.php" htmlUrl=""/>
+      <outline type="rss" text="Penny Arcade" title="Penny Arcade" xmlUrl="https://www.penny-arcade.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Saturday Morning Breakfast Cereal" title="Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" htmlUrl=""/>
+      <outline type="rss" text="The Oatmeal - Comics by Matthew Inman" title="The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl=""/>
+      <outline type="rss" text="The Onion" title="The Onion" xmlUrl="https://www.theonion.com/rss" htmlUrl=""/>
+      <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="https://xkcd.com/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Eurogamer.net Latest Articles Feed" title="Eurogamer.net Latest Articles Feed" xmlUrl="https://www.eurogamer.net/?format=rss" htmlUrl=""/>
+      <outline type="rss" text="GameSpot - All Content" title="GameSpot - All Content" xmlUrl="https://www.gamespot.com/feeds/mashup/" htmlUrl=""/>
+      <outline type="rss" text="IGN Articles" title="IGN Articles" xmlUrl="http://feeds.ign.com/ign/all" htmlUrl=""/>
+      <outline type="rss" text="Indie Games Plus" title="Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="https://kotaku.com/rss" htmlUrl=""/>
+      <outline type="rss" text="Polygon.com" title="Polygon.com" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl=""/>
+      <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl=""/>
+      <outline type="rss" text="The Ancient Gaming Noob" title="The Ancient Gaming Noob" xmlUrl="http://feeds.feedburner.com/TheAncientGamingNoob" htmlUrl=""/>
+      <outline type="rss" text="The Escapist" title="The Escapist" xmlUrl="https://www.escapistmagazine.com/v2/feed/" htmlUrl=""/>
+      <outline type="rss" text="r/gaming" title="r/gaming" xmlUrl="https://www.reddit.com/r/gaming.rss" htmlUrl=""/>
+      <outline type="rss" text="Dan Carlin's Hardcore History" title="Dan Carlin's Hardcore History" xmlUrl="https://feeds.feedburner.com/dancarlin/history?format=xml" htmlUrl=""/>
+      <outline type="rss" text="Core77" title="Core77" xmlUrl="http://feeds.feedburner.com/core77/blog" htmlUrl=""/>
+      <outline type="rss" text="Design MilkInterior Design Ideas for Your Modern Home | Design Milk" title="Design MilkInterior Design Ideas for Your Modern Home | Design Milk" xmlUrl="https://design-milk.com/category/interior-design/feed/" htmlUrl=""/>
+      <outline type="rss" text="Fubiz Media" title="Fubiz Media" xmlUrl="http://feeds.feedburner.com/fubiz" htmlUrl=""/>
+      <outline type="rss" text="In My Own Style" title="In My Own Style" xmlUrl="https://inmyownstyle.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Interior Design" title="Interior Design" xmlUrl="https://www.interiordesign.net/rss/" htmlUrl=""/>
+      <outline type="rss" text="Interior Design (Interior Architecture)" title="Interior Design (Interior Architecture)" xmlUrl="https://www.reddit.com/r/InteriorDesign/.rss" htmlUrl=""/>
+      <outline type="rss" text="Interior Design Ideas" title="Interior Design Ideas" xmlUrl="http://www.home-designing.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Interior design | Dezeen" title="Interior design | Dezeen" xmlUrl="https://www.dezeen.com/interiors/feed/" htmlUrl=""/>
+      <outline type="rss" text="The Inspired Room" title="The Inspired Room" xmlUrl="https://theinspiredroom.net/feed/" htmlUrl=""/>
+      <outline type="rss" text="Thrifty Decor Chick | Thrifty DIY, Decor and Organizing" title="Thrifty Decor Chick | Thrifty DIY, Decor and Organizing" xmlUrl="http://feeds.feedburner.com/blogspot/ZBcZ" htmlUrl=""/>
+      <outline type="rss" text="Trendir" title="Trendir" xmlUrl="https://www.trendir.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Yanko Design" title="Yanko Design" xmlUrl="http://feeds.feedburner.com/yankodesign" htmlUrl=""/>
+      <outline type="rss" text="Yatzer | Live Beautifully. Explore Endlessly." title="Yatzer | Live Beautifully. Explore Endlessly." xmlUrl="https://www.yatzer.com/rss.xml" htmlUrl=""/>
+      <outline type="rss" text="Young House Love" title="Young House Love" xmlUrl="https://www.younghouselove.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="decoist" title="decoist" xmlUrl="https://www.decoist.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="design archives | designboom | architecture &amp; design magazine" title="design archives | designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/design/feed" htmlUrl=""/>
+      <outline type="rss" text="/r/Memes the original since 2008" title="/r/Memes the original since 2008" xmlUrl="https://www.reddit.com/r/memes/.rss" htmlUrl=""/>
+      <outline type="rss" text="A sub for History Memes" title="A sub for History Memes" xmlUrl="https://www.reddit.com/r/historymemes/.rss" htmlUrl=""/>
+      <outline type="rss" text="Advice Animals" title="Advice Animals" xmlUrl="https://www.reddit.com/r/AdviceAnimals/.rss" htmlUrl=""/>
+      <outline type="rss" text="Indian Meme Templates" title="Indian Meme Templates" xmlUrl="https://indianmemetemplates.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Indian Memes" title="Indian Memes" xmlUrl="https://www.reddit.com/r/IndianMeyMeys/.rss" htmlUrl=""/>
+      <outline type="rss" text="Internet for the Spirit" title="Internet for the Spirit" xmlUrl="https://www.reddit.com/r/wholesomememes/.rss" htmlUrl=""/>
+      <outline type="rss" text="Memebase" title="Memebase" xmlUrl="https://memebase.cheezburger.com/rss" htmlUrl=""/>
+      <outline type="rss" text="PrequelMemes - Memes of the Star Wars Prequels" title="PrequelMemes - Memes of the Star Wars Prequels" xmlUrl="https://www.reddit.com/r/PrequelMemes/.rss" htmlUrl=""/>
+      <outline type="rss" text="Rabbit Ramblings" title="Rabbit Ramblings" xmlUrl="http://feeds.feedburner.com/blogspot/GlZMR" htmlUrl=""/>
+      <outline type="rss" text="YuckSauce" title="YuckSauce" xmlUrl="https://yucksauce.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="dankmemes" title="dankmemes" xmlUrl="https://www.reddit.com/r/dankmemes/.rss" htmlUrl=""/>
+      <outline type="rss" text="r/IndianDankMemes - India's Largest Meme Subreddit" title="r/IndianDankMemes - India's Largest Meme Subreddit" xmlUrl="https://www.reddit.com/r/IndianDankMemes/.rss" htmlUrl=""/>
+      <outline type="rss" text="selfies of the soul" title="selfies of the soul" xmlUrl="https://www.reddit.com/r/me_irl/.rss" htmlUrl=""/>
+      <outline type="rss" text="when things get too real for meirl" title="when things get too real for meirl" xmlUrl="https://www.reddit.com/r/2meirl4meirl/.rss" htmlUrl=""/>
+      <outline type="rss" text="😎HAHA DAE MINIONS!!!😎" title="😎HAHA DAE MINIONS!!!😎" xmlUrl="https://www.reddit.com/r/terriblefacebookmemes/.rss" htmlUrl=""/>
+      <outline type="rss" text="/Film" title="/Film" xmlUrl="https://feeds2.feedburner.com/slashfilm" htmlUrl=""/>
+      <outline type="rss" text="Deadline" title="Deadline" xmlUrl="https://deadline.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="FirstShowing.net" title="FirstShowing.net" xmlUrl="https://www.firstshowing.net/feed/" htmlUrl=""/>
+      <outline type="rss" text="IndieWire" title="IndieWire" xmlUrl="https://www.indiewire.com/feed" htmlUrl=""/>
+      <outline type="rss" text="Movies" title="Movies" xmlUrl="https://www.bleedingcool.com/movies/feed/" htmlUrl=""/>
+      <outline type="rss" text="Variety" title="Variety" xmlUrl="https://variety.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Consequence" title="Consequence" xmlUrl="http://consequenceofsound.net/feed" htmlUrl=""/>
+      <outline type="rss" text="Metal Injection" title="Metal Injection" xmlUrl="http://feeds.feedburner.com/metalinjection" htmlUrl=""/>
+      <outline type="rss" text="Music Business Worldwide" title="Music Business Worldwide" xmlUrl="https://www.musicbusinessworldwide.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Song Exploder" title="Song Exploder" xmlUrl="http://feed.songexploder.net/songexploder" htmlUrl=""/>
+      <outline type="rss" text="500px" title="500px" xmlUrl="https://iso.500px.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Light Stalking" title="Light Stalking" xmlUrl="https://www.lightstalking.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="One Big Photo" title="One Big Photo" xmlUrl="http://feeds.feedburner.com/OneBigPhoto" htmlUrl=""/>
+      <outline type="rss" text="PetaPixel" title="PetaPixel" xmlUrl="https://petapixel.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Strobist" title="Strobist" xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" htmlUrl=""/>
+      <outline type="rss" text="Stuck in Customs" title="Stuck in Customs" xmlUrl="https://stuckincustoms.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="The Boston Globe" title="The Boston Globe" xmlUrl="https://www.bostonglobe.com/rss/bigpicture" htmlUrl=""/>
+      <outline type="rss" text="" title="" xmlUrl="https://sports.yahoo.com/rss/" htmlUrl=""/>
+      <outline type="rss" text="CNN.com - RSS Channel - Sport" title="CNN.com - RSS Channel - Sport" xmlUrl="http://rss.cnn.com/rss/edition_sport.rss" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Sports" title="NYT &gt; Sports" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml" htmlUrl=""/>
+      <outline type="rss" text="Reddit Sports" title="Reddit Sports" xmlUrl="https://www.reddit.com/r/sports.rss" htmlUrl=""/>
+      <outline type="rss" text="Sportskeeda" title="Sportskeeda" xmlUrl="https://www.sportskeeda.com/feed" htmlUrl=""/>
+      <outline type="rss" text="www.espn.com - TOP" title="www.espn.com - TOP" xmlUrl="https://www.espn.com/espn/rss/news" htmlUrl=""/>
+      <outline type="rss" text="CNN.com - RSS Channel - Sport - Tennis" title="CNN.com - RSS Channel - Sport - Tennis" xmlUrl="http://rss.cnn.com/rss/edition_tennis.rss" htmlUrl=""/>
+      <outline type="rss" text="Essential Tennis Podcast - Instruction, Lessons, Tips" title="Essential Tennis Podcast - Instruction, Lessons, Tips" xmlUrl="https://feed.podbean.com/essentialtennis/feed.xml" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Sports &gt; Tennis" title="NYT &gt; Sports &gt; Tennis" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml" htmlUrl=""/>
+      <outline type="rss" text="Perfect Tennis" title="Perfect Tennis" xmlUrl="https://www.perfect-tennis.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="www.espn.com - TENNIS" title="www.espn.com - TENNIS" xmlUrl="https://www.espn.com/espn/rss/tennis/news" htmlUrl=""/>
+      <outline type="rss" text="Atlas Obscura - Latest Articles and Places" title="Atlas Obscura - Latest Articles and Places" xmlUrl="https://www.atlasobscura.com/feeds/latest" htmlUrl=""/>
+      <outline type="rss" text="Everything Everywhere" title="Everything Everywhere" xmlUrl="http://feeds2.feedburner.com/EverythingEverywhere/" htmlUrl=""/>
+      <outline type="rss" text="Live Life Travel" title="Live Life Travel" xmlUrl="https://www.livelifetravel.world/feed/" htmlUrl=""/>
+      <outline type="rss" text="NYT &gt; Travel" title="NYT &gt; Travel" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" htmlUrl=""/>
+      <outline type="rss" text="TFIL (Traveling to EVERY COUNTRY in A-Z Order)" title="TFIL (Traveling to EVERY COUNTRY in A-Z Order)" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ECastee" htmlUrl=""/>
+      <outline type="rss" text="The Points Guy Articles" title="The Points Guy Articles" xmlUrl="http://feeds.feedburner.com/thepointsguy" htmlUrl=""/>
+      <outline type="rss" text="Travel Dudes" title="Travel Dudes" xmlUrl="https://www.traveldudes.com/feed/" htmlUrl=""/>
+    </outline>
+  </body>
+</opml>

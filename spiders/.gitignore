@@ -1,0 +1,10 @@
+.idea
+config.py
+.env
+**/__pycache__
+test.py
+.playwright-mcp/
+
+# 运行时日志
+log.log
+logs/
