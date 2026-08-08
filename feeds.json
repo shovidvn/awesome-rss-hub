@@ -1,9 +1,11 @@
 {
   "metadata": {
     "title": "Master Awesome RSS Directory",
-    "total_rss_feeds": 839,
+    "total_active_rss_feeds": 802,
     "total_hot_spiders": 77,
-    "total_items": 916,
+    "total_active_items": 879,
+    "removed_duplicates": 14,
+    "removed_dead_feeds": 30,
     "sources": [
       "https://github.com/tuan3w/awesome-tech-rss",
       "https://github.com/plenaryapp/awesome-rss-feeds",
@@ -191,15 +193,6 @@
     },
     {
       "source": "awesome-tech-rss",
-      "title": "First Round Review",
-      "html_url": "",
-      "xml_url": "http://firstround.com/review/feed.xml",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
       "title": "Sam Altman",
       "html_url": "",
       "xml_url": "http://blog.samaltman.com/posts.atom",
@@ -236,15 +229,6 @@
     },
     {
       "source": "awesome-tech-rss",
-      "title": "OnStartups",
-      "html_url": "",
-      "xml_url": "http://feed.onstartups.com/onstartups",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
       "title": "The Black Box of Product Management - Medium",
       "html_url": "",
       "xml_url": "https://medium.com/feed/the-black-box-of-product-management",
@@ -266,15 +250,6 @@
       "title": "Irrational Exuberance",
       "html_url": "",
       "xml_url": "https://lethain.com/feeds/",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
-      "title": "SlashGear",
-      "html_url": "",
-      "xml_url": "http://feeds.slashgear.com/slashgear",
       "category": "Tech",
       "language": "en",
       "classified_category": "tech_startups"
@@ -335,36 +310,9 @@
     },
     {
       "source": "awesome-tech-rss",
-      "title": "Startups – TechCrunch",
-      "html_url": "",
-      "xml_url": "https://techcrunch.com/startups/feed/",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
-      "title": "Forbes - Leadership",
-      "html_url": "",
-      "xml_url": "https://www.forbes.com/leadership/feed/",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
       "title": "Fast Company",
       "html_url": "",
       "xml_url": "http://feeds.feedburner.com/fastcompany/headlines",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
-      "title": "Forbes - Entrepreneurs",
-      "html_url": "",
-      "xml_url": "http://www.forbes.com/entrepreneurs/index.xml",
       "category": "Tech",
       "language": "en",
       "classified_category": "tech_startups"
@@ -500,15 +448,6 @@
       "title": "eBay Tech Blog",
       "html_url": "",
       "xml_url": "http://www.ebaytechblog.com/feed/",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
-      "title": "Spotify Engineering",
-      "html_url": "",
-      "xml_url": "http://labs.spotify.com/feed/",
       "category": "Tech",
       "language": "en",
       "classified_category": "tech_startups"
@@ -677,27 +616,9 @@
     },
     {
       "source": "awesome-tech-rss",
-      "title": "Grab Tech",
-      "html_url": "",
-      "xml_url": "https://engineering.grab.com/feed.xml",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
       "title": "Josh Comeau's blog",
       "html_url": "",
       "xml_url": "https://joshwcomeau.com/rss.xml",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
-      "title": "Uber Engineering Blog",
-      "html_url": "",
-      "xml_url": "https://eng.uber.com/feed/",
       "category": "Tech",
       "language": "en",
       "classified_category": "tech_startups"
@@ -1010,15 +931,6 @@
     },
     {
       "source": "awesome-tech-rss",
-      "title": "Inside Design",
-      "html_url": "",
-      "xml_url": "http://blog.invisionapp.com/feed/",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
       "title": "UXmatters",
       "html_url": "",
       "xml_url": "https://uxmatters.com/index.xml",
@@ -1043,15 +955,6 @@
       "category": "Tech",
       "language": "en",
       "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
-      "title": "Airbnb Design",
-      "html_url": "",
-      "xml_url": "http://airbnb.design/feed/",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "ai_ml"
     },
     {
       "source": "awesome-tech-rss",
@@ -1118,27 +1021,9 @@
     },
     {
       "source": "awesome-tech-rss",
-      "title": "Nautilus",
-      "html_url": "",
-      "xml_url": "https://nautil.us/rss/all",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
       "title": "Freakonomics",
       "html_url": "",
       "xml_url": "http://freakonomics.blogs.nytimes.com/feed/",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
-      "title": "Psychology Today",
-      "html_url": "",
-      "xml_url": "https://www.psychologytoday.com/intl/rss.xml",
       "category": "Tech",
       "language": "en",
       "classified_category": "tech_startups"
@@ -1268,15 +1153,6 @@
       "category": "Tech",
       "language": "en",
       "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-tech-rss",
-      "title": "MarketingProfs",
-      "html_url": "",
-      "xml_url": "http://rss.marketingprofs.com/marketingprofs/daily",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "marketing"
     },
     {
       "source": "awesome-tech-rss",
@@ -5096,15 +4972,6 @@
     },
     {
       "source": "awesome-rss-feeds",
-      "title": "Stuck in Customs",
-      "html_url": "",
-      "xml_url": "https://stuckincustoms.com/feed/",
-      "category": "Photography",
-      "language": "en",
-      "classified_category": "lifestyle"
-    },
-    {
-      "source": "awesome-rss-feeds",
       "title": "The Boston Globe",
       "html_url": "",
       "xml_url": "https://www.bostonglobe.com/rss/bigpicture",
@@ -5879,15 +5746,6 @@
     },
     {
       "source": "awesome-rss-feeds",
-      "title": "Product Hunt — The best new products, every day",
-      "html_url": "",
-      "xml_url": "https://www.producthunt.com/feed",
-      "category": "Startups",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-rss-feeds",
       "title": "Small Business Trends",
       "html_url": "",
       "xml_url": "https://feeds2.feedburner.com/SmallBusinessTrends",
@@ -5900,15 +5758,6 @@
       "title": "Smart Passive Income",
       "html_url": "",
       "xml_url": "http://feeds.feedburner.com/smartpassiveincome",
-      "category": "Startups",
-      "language": "en",
-      "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "Steve Blank",
-      "html_url": "",
-      "xml_url": "https://steveblank.com/feed/",
       "category": "Startups",
       "language": "en",
       "classified_category": "tech_startups"
@@ -6029,15 +5878,6 @@
       "category": "Tech",
       "language": "en",
       "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "Hacker News",
-      "html_url": "",
-      "xml_url": "https://news.ycombinator.com/rss",
-      "category": "Tech",
-      "language": "en",
-      "classified_category": "cybersecurity"
     },
     {
       "source": "awesome-rss-feeds",
@@ -6446,15 +6286,6 @@
     },
     {
       "source": "awesome-rss-feeds",
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "html_url": "",
-      "xml_url": "https://www.smashingmagazine.com/feed",
-      "category": "UI - UX",
-      "language": "en",
-      "classified_category": "programming"
-    },
-    {
-      "source": "awesome-rss-feeds",
       "title": "Boxes and Arrows",
       "html_url": "",
       "xml_url": "http://boxesandarrows.com/rss/",
@@ -6554,24 +6385,6 @@
     },
     {
       "source": "awesome-rss-feeds",
-      "title": "Portal EBC - RSS",
-      "html_url": "",
-      "xml_url": "http://www.ebc.com.br/rss/feed.xml",
-      "category": "Country News - Brazil",
-      "language": "Brazil",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "R7 - Notícias",
-      "html_url": "",
-      "xml_url": "https://noticias.r7.com/feed.xml",
-      "category": "Country News - Brazil",
-      "language": "Brazil",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
       "title": "UOL",
       "html_url": "",
       "xml_url": "http://rss.home.uol.com.br/index.xml",
@@ -6611,15 +6424,6 @@
       "title": "ZEIT ONLINE | Nachrichten, Hintergründe und Debatten",
       "html_url": "",
       "xml_url": "http://newsfeed.zeit.de/index",
-      "category": "Country News - Germany",
-      "language": "Germany",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "FOCUS Online",
-      "html_url": "",
-      "xml_url": "https://rss.focus.de/fol/XML/rss_folnews.xml",
       "category": "Country News - Germany",
       "language": "Germany",
       "classified_category": "news"
@@ -6671,24 +6475,6 @@
     },
     {
       "source": "awesome-rss-feeds",
-      "title": "Merdeka.com",
-      "html_url": "",
-      "xml_url": "https://www.merdeka.com/feed/",
-      "category": "Country News - Indonesia",
-      "language": "Indonesia",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "Suara.com",
-      "html_url": "",
-      "xml_url": "https://www.suara.com/rss",
-      "category": "Country News - Indonesia",
-      "language": "Indonesia",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
       "title": "خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC",
       "html_url": "",
       "xml_url": "https://www.yjc.ir/fa/rss/allnews",
@@ -6728,15 +6514,6 @@
       "title": "خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline",
       "html_url": "",
       "xml_url": "https://www.khabaronline.ir/rss",
-      "category": "Country News - Iran",
-      "language": "Iran",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "اخبار ایران و جهان",
-      "html_url": "",
-      "xml_url": "https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85",
       "category": "Country News - Iran",
       "language": "Iran",
       "classified_category": "news"
@@ -6833,15 +6610,6 @@
     },
     {
       "source": "awesome-rss-feeds",
-      "title": "All - Kyodo News+",
-      "html_url": "",
-      "xml_url": "https://english.kyodonews.net/rss/all.xml",
-      "category": "Country News - Japan",
-      "language": "Japan",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
       "title": "BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
       "html_url": "",
       "xml_url": "http://feeds.feedburner.com/SdJapan",
@@ -6875,33 +6643,6 @@
       "category": "Country News - Japan",
       "language": "Japan",
       "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "Myanmar Gazette News Media Forum Network",
-      "html_url": "",
-      "xml_url": "http://myanmargazette.net/feed",
-      "category": "Country News - Myanmar (Burma)",
-      "language": "Myanmar (Burma)",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "DVB Multimedia Group",
-      "html_url": "",
-      "xml_url": "http://www.dvb.no/feed",
-      "category": "Country News - Myanmar (Burma)",
-      "language": "Myanmar (Burma)",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "THIT HTOO LWIN (Daily News)",
-      "html_url": "",
-      "xml_url": "http://www.thithtoolwin.com/feeds/posts/default",
-      "category": "Country News - Myanmar (Burma)",
-      "language": "Myanmar (Burma)",
-      "classified_category": "ai_ml"
     },
     {
       "source": "awesome-rss-feeds",
@@ -7040,39 +6781,12 @@
     },
     {
       "source": "awesome-rss-feeds",
-      "title": "SowetanLIVE",
-      "html_url": "",
-      "xml_url": "https://www.sowetanlive.co.za/rss/?publication=sowetan-live",
-      "category": "Country News - South Africa",
-      "language": "South Africa",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
       "title": "TechCentral",
       "html_url": "",
       "xml_url": "https://techcentral.co.za/feed",
       "category": "Country News - South Africa",
       "language": "South Africa",
       "classified_category": "tech_startups"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "News24 Top Stories",
-      "html_url": "",
-      "xml_url": "http://feeds.news24.com/articles/news24/TopStories/rss",
-      "category": "Country News - South Africa",
-      "language": "South Africa",
-      "classified_category": "news"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "Eyewitness News | Latest News",
-      "html_url": "",
-      "xml_url": "https://ewn.co.za/RSS%20Feeds/Latest%20News",
-      "category": "Country News - South Africa",
-      "language": "South Africa",
-      "classified_category": "news"
     },
     {
       "source": "awesome-rss-feeds",
@@ -7109,15 +6823,6 @@
       "category": "Country News - South Africa",
       "language": "South Africa",
       "classified_category": "cybersecurity"
-    },
-    {
-      "source": "awesome-rss-feeds",
-      "title": "TimesLIVE",
-      "html_url": "",
-      "xml_url": "https://www.timeslive.co.za/rss/",
-      "category": "Country News - South Africa",
-      "language": "South Africa",
-      "classified_category": "news"
     },
     {
       "source": "awesome-rss-feeds",
@@ -7318,28 +7023,10 @@
       "classified_category": "ai_ml"
     },
     {
-      "source": "awesome-rss-feeds",
-      "title": "Вести.ua",
-      "html_url": "",
-      "xml_url": "https://vesti.ua/feeds/partners",
-      "category": "Country News - Ukraine",
-      "language": "Ukraine",
-      "classified_category": "ai_ml"
-    },
-    {
       "source": "Olshansk/rss-feeds",
       "title": "ai_first_podcast",
       "html_url": "https://ai-first.ai/podcast",
       "xml_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ai_first_podcast.xml",
-      "category": "AI & Machine Learning",
-      "language": "en",
-      "classified_category": "ai_ml"
-    },
-    {
-      "source": "Olshansk/rss-feeds",
-      "title": "anthropic_eng",
-      "html_url": "https://www.anthropic.com/engineering",
-      "xml_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_eng.xml",
       "category": "AI & Machine Learning",
       "language": "en",
       "classified_category": "ai_ml"
@@ -7584,26 +7271,10 @@
       "classified_category": "marketing"
     },
     {
-      "title": "Backlinko",
-      "xml_url": "https://backlinko.com/feed",
-      "html_url": "https://backlinko.com",
-      "category": "Marketing - SEO",
-      "source": "user_added",
-      "classified_category": "marketing"
-    },
-    {
       "title": "Neil Patel Blog",
       "xml_url": "https://neilpatel.com/blog/feed/",
       "html_url": "https://neilpatel.com/blog/",
       "category": "Marketing - Content",
-      "source": "user_added",
-      "classified_category": "marketing"
-    },
-    {
-      "title": "Social Media Examiner",
-      "xml_url": "https://www.socialmediaexaminer.com/feed/",
-      "html_url": "https://www.socialmediaexaminer.com",
-      "category": "Marketing - Social",
       "source": "user_added",
       "classified_category": "marketing"
     },

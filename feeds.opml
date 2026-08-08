@@ -14,7 +14,6 @@
       <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl=""/>
       <outline type="rss" text="Unite.AI" title="Unite.AI" xmlUrl="https://www.unite.ai/feed/" htmlUrl=""/>
       <outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://www.reddit.com/r/MachineLearning/.rss" htmlUrl=""/>
-      <outline type="rss" text="Airbnb Design" title="Airbnb Design" xmlUrl="http://airbnb.design/feed/" htmlUrl=""/>
       <outline type="rss" text="UX Daily - User Experience Daily" title="UX Daily - User Experience Daily" xmlUrl="https://interaction-design.org/rss/site_news.xml" htmlUrl=""/>
       <outline type="rss" text="Neuroscience News -- ScienceDaily" title="Neuroscience News -- ScienceDaily" xmlUrl="https://sciencedaily.com/rss/mind_brain/neuroscience.xml" htmlUrl=""/>
       <outline type="rss" text="SharpBrains" title="SharpBrains" xmlUrl="http://www.sharpbrains.com/feed/" htmlUrl=""/>
@@ -41,7 +40,6 @@
       <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl=""/>
       <outline type="rss" text="TED Talks Daily" title="TED Talks Daily" xmlUrl="https://pa.tedcdn.com/feeds/talks.rss" htmlUrl=""/>
       <outline type="rss" text="Sink In - Tech Learnings" title="Sink In - Tech Learnings" xmlUrl="https://gosink.in/rss/" htmlUrl=""/>
-      <outline type="rss" text="THIT HTOO LWIN (Daily News)" title="THIT HTOO LWIN (Daily News)" xmlUrl="http://www.thithtoolwin.com/feeds/posts/default" htmlUrl=""/>
       <outline type="rss" text="Daily Maverick" title="Daily Maverick" xmlUrl="https://www.dailymaverick.co.za/dmrss/" htmlUrl=""/>
       <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/es" htmlUrl=""/>
       <outline type="rss" text="EL PAÍS: el periódico global" title="EL PAÍS: el periódico global" xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" htmlUrl=""/>
@@ -63,9 +61,7 @@
       <outline type="rss" text="Информационное агентство УНИАН" title="Информационное агентство УНИАН" xmlUrl="https://rss.unian.net/site/news_rus.rss" htmlUrl=""/>
       <outline type="rss" text="Еспресо - український погляд на світ!" title="Еспресо - український погляд на світ!" xmlUrl="https://espreso.tv/rss" htmlUrl=""/>
       <outline type="rss" text="Gazeta.ua" title="Gazeta.ua" xmlUrl="https://gazeta.ua/rss" htmlUrl=""/>
-      <outline type="rss" text="Вести.ua" title="Вести.ua" xmlUrl="https://vesti.ua/feeds/partners" htmlUrl=""/>
       <outline type="rss" text="ai_first_podcast" title="ai_first_podcast" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ai_first_podcast.xml" htmlUrl="https://ai-first.ai/podcast"/>
-      <outline type="rss" text="anthropic_eng" title="anthropic_eng" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_eng.xml" htmlUrl="https://www.anthropic.com/engineering"/>
       <outline type="rss" text="anthropic_news" title="anthropic_news" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" htmlUrl="https://www.anthropic.com/news"/>
       <outline type="rss" text="anthropic_red" title="anthropic_red" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml" htmlUrl="https://red.anthropic.com/"/>
       <outline type="rss" text="anthropic_research" title="anthropic_research" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml" htmlUrl="https://www.anthropic.com/research"/>
@@ -130,7 +126,6 @@
       <outline type="rss" text="The Stack Overflow Podcast" title="The Stack Overflow Podcast" xmlUrl="https://feeds.simplecast.com/XA_851k3" htmlUrl=""/>
       <outline type="rss" text="The Women in Tech Show: A Technical Podcast" title="The Women in Tech Show: A Technical Podcast" xmlUrl="https://thewomenintechshow.com/category/podcast/feed/" htmlUrl=""/>
       <outline type="rss" text="programming" title="programming" xmlUrl="https://www.reddit.com/r/programming/.rss" htmlUrl=""/>
-      <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" htmlUrl=""/>
       <outline type="rss" text="Boxes and Arrows" title="Boxes and Arrows" xmlUrl="http://boxesandarrows.com/rss/" htmlUrl=""/>
       <outline type="rss" text="JUST™ Creative" title="JUST™ Creative" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" htmlUrl=""/>
       <outline type="rss" text="UX Movement" title="UX Movement" xmlUrl="https://uxmovement.com/feed/" htmlUrl=""/>
@@ -240,7 +235,6 @@
       <outline type="rss" text="HackerNoon.com - Medium" title="HackerNoon.com - Medium" xmlUrl="https://medium.com/feed/hackernoon" htmlUrl=""/>
       <outline type="rss" text="60-Second Science" title="60-Second Science" xmlUrl="http://rss.sciam.com/sciam/60secsciencepodcast" htmlUrl=""/>
       <outline type="rss" text="Hacker News: Front Page" title="Hacker News: Front Page" xmlUrl="https://hnrss.org/frontpage" htmlUrl=""/>
-      <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl=""/>
       <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="https://lifehacker.com/rss" htmlUrl=""/>
       <outline type="rss" text="CNN.com - RSS Channel - App Travel Section" title="CNN.com - RSS Channel - App Travel Section" xmlUrl="http://rss.cnn.com/rss/cnn_travel.rss" htmlUrl=""/>
       <outline type="rss" text="Million Mile Secrets" title="Million Mile Secrets" xmlUrl="http://feeds.feedburner.com/MillionMileSecrets" htmlUrl=""/>
@@ -249,7 +243,6 @@
     <outline text="📣 Digital Marketing, SEO &amp; Growth" title="📣 Digital Marketing, SEO &amp; Growth">
       <outline type="rss" text="Moz" title="Moz" xmlUrl="http://feeds.feedburner.com/seomoz" htmlUrl=""/>
       <outline type="rss" text="Content Marketing Institute" title="Content Marketing Institute" xmlUrl="http://feeds.feedburner.com/cmi-content-marketing" htmlUrl=""/>
-      <outline type="rss" text="MarketingProfs" title="MarketingProfs" xmlUrl="http://rss.marketingprofs.com/marketingprofs/daily" htmlUrl=""/>
       <outline type="rss" text="Marketo Marketing blog" title="Marketo Marketing blog" xmlUrl="http://feeds.feedburner.com/modernb2bmarketing" htmlUrl=""/>
       <outline type="rss" text="Social Media Examiner | Social Media Marketing" title="Social Media Examiner | Social Media Marketing" xmlUrl="http://www.socialmediaexaminer.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Hubspot" title="Hubspot" xmlUrl="http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=6307&amp;moduleid=8441&amp;maxcount=25" htmlUrl=""/>
@@ -260,9 +253,7 @@
       <outline type="rss" text="Copyblogger" title="Copyblogger" xmlUrl="https://copyblogger.com/feed/" htmlUrl="https://copyblogger.com"/>
       <outline type="rss" text="Moz Blog" title="Moz Blog" xmlUrl="https://moz.com/blog/feed" htmlUrl="https://moz.com/blog"/>
       <outline type="rss" text="Search Engine Land" title="Search Engine Land" xmlUrl="https://searchengineland.com/feed" htmlUrl="https://searchengineland.com"/>
-      <outline type="rss" text="Backlinko" title="Backlinko" xmlUrl="https://backlinko.com/feed" htmlUrl="https://backlinko.com"/>
       <outline type="rss" text="Neil Patel Blog" title="Neil Patel Blog" xmlUrl="https://neilpatel.com/blog/feed/" htmlUrl="https://neilpatel.com/blog/"/>
-      <outline type="rss" text="Social Media Examiner" title="Social Media Examiner" xmlUrl="https://www.socialmediaexaminer.com/feed/" htmlUrl="https://www.socialmediaexaminer.com"/>
       <outline type="rss" text="Buffer Resources" title="Buffer Resources" xmlUrl="https://buffer.com/resources/rss/" htmlUrl="https://buffer.com/resources/"/>
       <outline type="rss" text="Salesforce Blog" title="Salesforce Blog" xmlUrl="https://www.salesforce.com/blog/feed/" htmlUrl="https://www.salesforce.com/blog/"/>
     </outline>
@@ -278,26 +269,20 @@
       <outline type="rss" text="The singularity is nearer" title="The singularity is nearer" xmlUrl="https://geohot.github.io/blog/feed.xml" htmlUrl=""/>
       <outline type="rss" text="Guy Kawasaki" title="Guy Kawasaki" xmlUrl="http://guykawasaki.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Essays - Benedict Evans" title="Essays - Benedict Evans" xmlUrl="http://ben-evans.com/benedictevans?format=rss" htmlUrl=""/>
-      <outline type="rss" text="First Round Review" title="First Round Review" xmlUrl="http://firstround.com/review/feed.xml" htmlUrl=""/>
       <outline type="rss" text="Sam Altman" title="Sam Altman" xmlUrl="http://blog.samaltman.com/posts.atom" htmlUrl=""/>
       <outline type="rss" text="Andrew Chen" title="Andrew Chen" xmlUrl="http://andrewchen.co/feed/" htmlUrl=""/>
       <outline type="rss" text="Both Sides of the Table - Medium" title="Both Sides of the Table - Medium" xmlUrl="https://bothsidesofthetable.com/feed" htmlUrl=""/>
       <outline type="rss" text="Both Sides of the Table" title="Both Sides of the Table" xmlUrl="http://feeds.feedburner.com/BothSidesOfTheTable" htmlUrl=""/>
-      <outline type="rss" text="OnStartups" title="OnStartups" xmlUrl="http://feed.onstartups.com/onstartups" htmlUrl=""/>
       <outline type="rss" text="The Black Box of Product Management - Medium" title="The Black Box of Product Management - Medium" xmlUrl="https://medium.com/feed/the-black-box-of-product-management" htmlUrl=""/>
       <outline type="rss" text="Product Life" title="Product Life" xmlUrl="https://productlife.to/feed" htmlUrl=""/>
       <outline type="rss" text="Irrational Exuberance" title="Irrational Exuberance" xmlUrl="https://lethain.com/feeds/" htmlUrl=""/>
-      <outline type="rss" text="SlashGear" title="SlashGear" xmlUrl="http://feeds.slashgear.com/slashgear" htmlUrl=""/>
       <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://venturebeat.com/feed/" htmlUrl=""/>
       <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl=""/>
       <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl=""/>
       <outline type="rss" text="Tech in Asia" title="Tech in Asia" xmlUrl="https://feeds2.feedburner.com/PennOlson" htmlUrl=""/>
       <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="http://www.fastcodesign.com/rss.xml" htmlUrl=""/>
-      <outline type="rss" text="Startups – TechCrunch" title="Startups – TechCrunch" xmlUrl="https://techcrunch.com/startups/feed/" htmlUrl=""/>
-      <outline type="rss" text="Forbes - Leadership" title="Forbes - Leadership" xmlUrl="https://www.forbes.com/leadership/feed/" htmlUrl=""/>
       <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" htmlUrl=""/>
-      <outline type="rss" text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" xmlUrl="http://www.forbes.com/entrepreneurs/index.xml" htmlUrl=""/>
       <outline type="rss" text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" xmlUrl="http://www.producthunt.com/feed" htmlUrl=""/>
       <outline type="rss" text="Sachin Rekhi's Blog" title="Sachin Rekhi's Blog" xmlUrl="http://feeds.feedburner.com/sachinrekhiblog" htmlUrl=""/>
       <outline type="rss" text="Medium Engineering - Medium" title="Medium Engineering - Medium" xmlUrl="https://medium.com/feed/medium-eng" htmlUrl=""/>
@@ -308,7 +293,6 @@
       <outline type="rss" text="Facebook Engineering" title="Facebook Engineering" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl=""/>
       <outline type="rss" text="Grokking Newsletter" title="Grokking Newsletter" xmlUrl="http://newsletter.grokking.org/?format=rss" htmlUrl=""/>
       <outline type="rss" text="eBay Tech Blog" title="eBay Tech Blog" xmlUrl="http://www.ebaytechblog.com/feed/" htmlUrl=""/>
-      <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="http://labs.spotify.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Twitter Engineering" title="Twitter Engineering" xmlUrl="https://blog.twitter.com/engineering/en_us/blog.rss" htmlUrl=""/>
       <outline type="rss" text="Stripe Blog" title="Stripe Blog" xmlUrl="https://stripe.com/blog/feed.rss" htmlUrl=""/>
       <outline type="rss" text="Instagram Engineering - Medium" title="Instagram Engineering - Medium" xmlUrl="https://instagram-engineering.com/feed" htmlUrl=""/>
@@ -325,9 +309,7 @@
       <outline type="rss" text="Martin Kleppmann's blog" title="Martin Kleppmann's blog" xmlUrl="https://feeds.feedburner.com/martinkl?format=xml" htmlUrl=""/>
       <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="https://danluu.com/atom.xml" htmlUrl=""/>
       <outline type="rss" text="Shopify Engineering - Shopify Engineering" title="Shopify Engineering - Shopify Engineering" xmlUrl="https://shopifyengineering.myshopify.com/blogs/engineering.atom" htmlUrl=""/>
-      <outline type="rss" text="Grab Tech" title="Grab Tech" xmlUrl="https://engineering.grab.com/feed.xml" htmlUrl=""/>
       <outline type="rss" text="Josh Comeau's blog" title="Josh Comeau's blog" xmlUrl="https://joshwcomeau.com/rss.xml" htmlUrl=""/>
-      <outline type="rss" text="Uber Engineering Blog" title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Flurries of latent creativity - Stripe CTO blog" title="Flurries of latent creativity - Stripe CTO blog" xmlUrl="https://blog.singleton.io/index.xml" htmlUrl=""/>
       <outline type="rss" text="Sophie Alpert" title="Sophie Alpert" xmlUrl="https://sophiebits.com/atom.xml" htmlUrl=""/>
       <outline type="rss" text="Amjad Masad" title="Amjad Masad" xmlUrl="https://amasad.me/rss" htmlUrl=""/>
@@ -354,7 +336,6 @@
       <outline type="rss" text="UX Planet" title="UX Planet" xmlUrl="https://uxplanet.org/feed" htmlUrl=""/>
       <outline type="rss" text="NN/g latest articles and announcements" title="NN/g latest articles and announcements" xmlUrl="https://www.nngroup.com/feed/rss/" htmlUrl=""/>
       <outline type="rss" text="UX Movement" title="UX Movement" xmlUrl="http://feeds.feedburner.com/uxmovement" htmlUrl=""/>
-      <outline type="rss" text="Inside Design" title="Inside Design" xmlUrl="http://blog.invisionapp.com/feed/" htmlUrl=""/>
       <outline type="rss" text="UXmatters" title="UXmatters" xmlUrl="https://uxmatters.com/index.xml" htmlUrl=""/>
       <outline type="rss" text="UX Collective - Medium" title="UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" htmlUrl=""/>
       <outline type="rss" text="web.dev" title="web.dev" xmlUrl="https://web.dev/feed.xml" htmlUrl=""/>
@@ -362,9 +343,7 @@
       <outline type="rss" text="PsyBlog" title="PsyBlog" xmlUrl="http://feeds.feedburner.com/PsychologyBlog" htmlUrl=""/>
       <outline type="rss" text="Psychology Blog" title="Psychology Blog" xmlUrl="http://www.all-about-psychology.com/psychology.xml" htmlUrl=""/>
       <outline type="rss" text="Psychology Headlines Around the World" title="Psychology Headlines Around the World" xmlUrl="http://www.socialpsychology.org/headlines.rss" htmlUrl=""/>
-      <outline type="rss" text="Nautilus" title="Nautilus" xmlUrl="https://nautil.us/rss/all" htmlUrl=""/>
       <outline type="rss" text="Freakonomics" title="Freakonomics" xmlUrl="http://freakonomics.blogs.nytimes.com/feed/" htmlUrl=""/>
-      <outline type="rss" text="Psychology Today" title="Psychology Today" xmlUrl="https://www.psychologytoday.com/intl/rss.xml" htmlUrl=""/>
       <outline type="rss" text="Neuroscience News" title="Neuroscience News" xmlUrl="http://neurosciencenews.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Nautilus" title="Nautilus" xmlUrl="http://nautil.us/rss/all" htmlUrl=""/>
       <outline type="rss" text="Quanta Magazine" title="Quanta Magazine" xmlUrl="http://www.quantamagazine.org/feed/" htmlUrl=""/>
@@ -410,10 +389,8 @@
       <outline type="rss" text="Marie Forleo" title="Marie Forleo" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo" htmlUrl=""/>
       <outline type="rss" text="Masters of Scale" title="Masters of Scale" xmlUrl="https://rss.art19.com/masters-of-scale" htmlUrl=""/>
       <outline type="rss" text="Paul Graham: Essays" title="Paul Graham: Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl=""/>
-      <outline type="rss" text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" xmlUrl="https://www.producthunt.com/feed" htmlUrl=""/>
       <outline type="rss" text="Small Business Trends" title="Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" htmlUrl=""/>
       <outline type="rss" text="Smart Passive Income" title="Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" htmlUrl=""/>
-      <outline type="rss" text="Steve Blank" title="Steve Blank" xmlUrl="https://steveblank.com/feed/" htmlUrl=""/>
       <outline type="rss" text="The Intercom Blog" title="The Intercom Blog" xmlUrl="https://www.intercom.com/blog/feed" htmlUrl=""/>
       <outline type="rss" text="The Startup Junkies Podcast" title="The Startup Junkies Podcast" xmlUrl="https://startupjunkie.libsyn.com/rss" htmlUrl=""/>
       <outline type="rss" text="The Tim Ferriss Show" title="The Tim Ferriss Show" xmlUrl="https://rss.art19.com/tim-ferriss-show" htmlUrl=""/>
@@ -574,27 +551,21 @@
       <outline type="rss" text="Tennis | The Indian Express" title="Tennis | The Indian Express" xmlUrl="https://indianexpress.com/section/sports/tennis/feed/" htmlUrl=""/>
       <outline type="rss" text="Travel | The Guardian" title="Travel | The Guardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" htmlUrl=""/>
       <outline type="rss" text="Folha de S.Paulo - Em cima da hora - Principal" title="Folha de S.Paulo - Em cima da hora - Principal" xmlUrl="https://feeds.folha.uol.com.br/emcimadahora/rss091.xml" htmlUrl=""/>
-      <outline type="rss" text="Portal EBC - RSS" title="Portal EBC - RSS" xmlUrl="http://www.ebc.com.br/rss/feed.xml" htmlUrl=""/>
-      <outline type="rss" text="R7 - Notícias" title="R7 - Notícias" xmlUrl="https://noticias.r7.com/feed.xml" htmlUrl=""/>
       <outline type="rss" text="UOL" title="UOL" xmlUrl="http://rss.home.uol.com.br/index.xml" htmlUrl=""/>
       <outline type="rss" text="The Rio Times" title="The Rio Times" xmlUrl="https://riotimesonline.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Brasil Wire" title="Brasil Wire" xmlUrl="http://www.brasilwire.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Jornal de Brasília" title="Jornal de Brasília" xmlUrl="https://jornaldebrasilia.com.br/feed/" htmlUrl=""/>
       <outline type="rss" text="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" title="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" xmlUrl="http://newsfeed.zeit.de/index" htmlUrl=""/>
-      <outline type="rss" text="FOCUS Online" title="FOCUS Online" xmlUrl="https://rss.focus.de/fol/XML/rss_folnews.xml" htmlUrl=""/>
       <outline type="rss" text="Aktuell - FAZ.NET" title="Aktuell - FAZ.NET" xmlUrl="https://www.faz.net/rss/aktuell/" htmlUrl=""/>
       <outline type="rss" text="tagesschau.de - Die Nachrichten der ARD" title="tagesschau.de - Die Nachrichten der ARD" xmlUrl="http://www.tagesschau.de/xml/rss2" htmlUrl=""/>
       <outline type="rss" text="Deutsche Welle" title="Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" htmlUrl=""/>
       <outline type="rss" text="Republika Online RSS Feed" title="Republika Online RSS Feed" xmlUrl="https://www.republika.co.id/rss/" htmlUrl=""/>
       <outline type="rss" text="Tribunnews.com" title="Tribunnews.com" xmlUrl="https://www.tribunnews.com/rss" htmlUrl=""/>
-      <outline type="rss" text="Merdeka.com" title="Merdeka.com" xmlUrl="https://www.merdeka.com/feed/" htmlUrl=""/>
-      <outline type="rss" text="Suara.com" title="Suara.com" xmlUrl="https://www.suara.com/rss" htmlUrl=""/>
       <outline type="rss" text="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" title="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" xmlUrl="https://www.yjc.ir/fa/rss/allnews" htmlUrl=""/>
       <outline type="rss" text="تابناک | TABNAK" title="تابناک | TABNAK" xmlUrl="https://www.tabnak.ir/fa/rss/allnews" htmlUrl=""/>
       <outline type="rss" text="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" title="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" xmlUrl="https://www.isna.ir/rss" htmlUrl=""/>
       <outline type="rss" text="خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency" title="خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency" xmlUrl="https://www.mehrnews.com/rss" htmlUrl=""/>
       <outline type="rss" text="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" title="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" xmlUrl="https://www.khabaronline.ir/rss" htmlUrl=""/>
-      <outline type="rss" text="اخبار ایران و جهان" title="اخبار ایران و جهان" xmlUrl="https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85" htmlUrl=""/>
       <outline type="rss" text="عصر ايران" title="عصر ايران" xmlUrl="https://www.asriran.com/fa/rss/allnews" htmlUrl=""/>
       <outline type="rss" text="TheJournal.ie" title="TheJournal.ie" xmlUrl="https://www.thejournal.ie/feed/" htmlUrl=""/>
       <outline type="rss" text="All: BreakingNews.ie" title="All: BreakingNews.ie" xmlUrl="https://feeds.breakingnews.ie/bntopstories" htmlUrl=""/>
@@ -605,13 +576,10 @@
       <outline type="rss" text="Japan Times latest articles" title="Japan Times latest articles" xmlUrl="https://www.japantimes.co.jp/feed/topstories/" htmlUrl=""/>
       <outline type="rss" text="Japan Today" title="Japan Today" xmlUrl="https://japantoday.com/feed" htmlUrl=""/>
       <outline type="rss" text="News On Japan" title="News On Japan" xmlUrl="http://www.newsonjapan.com/rss/top.xml" htmlUrl=""/>
-      <outline type="rss" text="All - Kyodo News+" title="All - Kyodo News+" xmlUrl="https://english.kyodonews.net/rss/all.xml" htmlUrl=""/>
       <outline type="rss" text="BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報" title="BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報" xmlUrl="http://feeds.feedburner.com/SdJapan" htmlUrl=""/>
       <outline type="rss" text="NYT &gt; Japan" title="NYT &gt; Japan" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml" htmlUrl=""/>
       <outline type="rss" text="ライブドアニュース - 主要トピックス" title="ライブドアニュース - 主要トピックス" xmlUrl="https://news.livedoor.com/topics/rss/top.xml" htmlUrl=""/>
       <outline type="rss" text="朝日新聞デジタル" title="朝日新聞デジタル" xmlUrl="http://rss.asahi.com/rss/asahi/newsheadlines.rdf" htmlUrl=""/>
-      <outline type="rss" text="Myanmar Gazette News Media Forum Network" title="Myanmar Gazette News Media Forum Network" xmlUrl="http://myanmargazette.net/feed" htmlUrl=""/>
-      <outline type="rss" text="DVB Multimedia Group" title="DVB Multimedia Group" xmlUrl="http://www.dvb.no/feed" htmlUrl=""/>
       <outline type="rss" text="The Express Tribune" title="The Express Tribune" xmlUrl="https://tribune.com.pk/feed/home" htmlUrl=""/>
       <outline type="rss" text="The Nation - Top Stories" title="The Nation - Top Stories" xmlUrl="https://nation.com.pk/rss/top-stories" htmlUrl=""/>
       <outline type="rss" text="قومی خبریں" title="قومی خبریں" xmlUrl="https://jang.com.pk/rss/1/1" htmlUrl=""/>
@@ -626,12 +594,8 @@
       <outline type="rss" text="https://www.rp.pl" title="https://www.rp.pl" xmlUrl="https://www.rp.pl/rss/1019" htmlUrl=""/>
       <outline type="rss" text="Polska Agencja Prasowa SA" title="Polska Agencja Prasowa SA" xmlUrl="https://www.pap.pl/rss.xml" htmlUrl=""/>
       <outline type="rss" text="RMF24.pl" title="RMF24.pl" xmlUrl="https://www.rmf24.pl/feed" htmlUrl=""/>
-      <outline type="rss" text="SowetanLIVE" title="SowetanLIVE" xmlUrl="https://www.sowetanlive.co.za/rss/?publication=sowetan-live" htmlUrl=""/>
-      <outline type="rss" text="News24 Top Stories" title="News24 Top Stories" xmlUrl="http://feeds.news24.com/articles/news24/TopStories/rss" htmlUrl=""/>
-      <outline type="rss" text="Eyewitness News | Latest News" title="Eyewitness News | Latest News" xmlUrl="https://ewn.co.za/RSS%20Feeds/Latest%20News" htmlUrl=""/>
       <outline type="rss" text="The Citizen" title="The Citizen" xmlUrl="https://citizen.co.za/feed/" htmlUrl=""/>
       <outline type="rss" text="Moneyweb" title="Moneyweb" xmlUrl="https://www.moneyweb.co.za/feed/" htmlUrl=""/>
-      <outline type="rss" text="TimesLIVE" title="TimesLIVE" xmlUrl="https://www.timeslive.co.za/rss/" htmlUrl=""/>
       <outline type="rss" text="The South African" title="The South African" xmlUrl="https://www.thesouthafrican.com/feed/" htmlUrl=""/>
     </outline>
     <outline text="🔬 Science, Space &amp; Environment" title="🔬 Science, Space &amp; Environment">
@@ -842,7 +806,6 @@
       <outline type="rss" text="One Big Photo" title="One Big Photo" xmlUrl="http://feeds.feedburner.com/OneBigPhoto" htmlUrl=""/>
       <outline type="rss" text="PetaPixel" title="PetaPixel" xmlUrl="https://petapixel.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Strobist" title="Strobist" xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" htmlUrl=""/>
-      <outline type="rss" text="Stuck in Customs" title="Stuck in Customs" xmlUrl="https://stuckincustoms.com/feed/" htmlUrl=""/>
       <outline type="rss" text="The Boston Globe" title="The Boston Globe" xmlUrl="https://www.bostonglobe.com/rss/bigpicture" htmlUrl=""/>
       <outline type="rss" text="" title="" xmlUrl="https://sports.yahoo.com/rss/" htmlUrl=""/>
       <outline type="rss" text="CNN.com - RSS Channel - Sport" title="CNN.com - RSS Channel - Sport" xmlUrl="http://rss.cnn.com/rss/edition_sport.rss" htmlUrl=""/>

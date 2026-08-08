@@ -7,7 +7,6 @@
     <outline text="📣 Digital Marketing, SEO &amp; Growth" title="📣 Digital Marketing, SEO &amp; Growth">
       <outline type="rss" text="Moz" title="Moz" xmlUrl="http://feeds.feedburner.com/seomoz" htmlUrl=""/>
       <outline type="rss" text="Content Marketing Institute" title="Content Marketing Institute" xmlUrl="http://feeds.feedburner.com/cmi-content-marketing" htmlUrl=""/>
-      <outline type="rss" text="MarketingProfs" title="MarketingProfs" xmlUrl="http://rss.marketingprofs.com/marketingprofs/daily" htmlUrl=""/>
       <outline type="rss" text="Marketo Marketing blog" title="Marketo Marketing blog" xmlUrl="http://feeds.feedburner.com/modernb2bmarketing" htmlUrl=""/>
       <outline type="rss" text="Social Media Examiner | Social Media Marketing" title="Social Media Examiner | Social Media Marketing" xmlUrl="http://www.socialmediaexaminer.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Hubspot" title="Hubspot" xmlUrl="http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=6307&amp;moduleid=8441&amp;maxcount=25" htmlUrl=""/>
@@ -18,9 +17,7 @@
       <outline type="rss" text="Copyblogger" title="Copyblogger" xmlUrl="https://copyblogger.com/feed/" htmlUrl="https://copyblogger.com"/>
       <outline type="rss" text="Moz Blog" title="Moz Blog" xmlUrl="https://moz.com/blog/feed" htmlUrl="https://moz.com/blog"/>
       <outline type="rss" text="Search Engine Land" title="Search Engine Land" xmlUrl="https://searchengineland.com/feed" htmlUrl="https://searchengineland.com"/>
-      <outline type="rss" text="Backlinko" title="Backlinko" xmlUrl="https://backlinko.com/feed" htmlUrl="https://backlinko.com"/>
       <outline type="rss" text="Neil Patel Blog" title="Neil Patel Blog" xmlUrl="https://neilpatel.com/blog/feed/" htmlUrl="https://neilpatel.com/blog/"/>
-      <outline type="rss" text="Social Media Examiner" title="Social Media Examiner" xmlUrl="https://www.socialmediaexaminer.com/feed/" htmlUrl="https://www.socialmediaexaminer.com"/>
       <outline type="rss" text="Buffer Resources" title="Buffer Resources" xmlUrl="https://buffer.com/resources/rss/" htmlUrl="https://buffer.com/resources/"/>
       <outline type="rss" text="Salesforce Blog" title="Salesforce Blog" xmlUrl="https://www.salesforce.com/blog/feed/" htmlUrl="https://www.salesforce.com/blog/"/>
     </outline>

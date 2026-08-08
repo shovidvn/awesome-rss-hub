@@ -1,12 +1,12 @@
 # 📡 Ultimate Master RSS Directory & Hot Trends Aggregator
 
-> **Kho lưu trữ tổng hợp nguồn tin RSS & Hot Trends thời gian thực lớn nhất**, gom nhóm và tối ưu từ 4 nguồn chính trên GitHub + Các nguồn Marketing tuyển chọn:
+> **Kho lưu trữ tổng hợp nguồn tin RSS & Hot Trends thời gian thực lớn nhất**, gom nhóm và đã lọc bỏ hoàn toàn trùng lặp & nguồn tin lỗi:
 > 1. [`tuan3w/awesome-tech-rss`](https://github.com/tuan3w/awesome-tech-rss)
 > 2. [`plenaryapp/awesome-rss-feeds`](https://github.com/plenaryapp/awesome-rss-feeds)
 > 3. [`Olshansk/rss-feeds`](https://github.com/Olshansk/rss-feeds)
 > 4. [`datehoer/hotToday`](https://github.com/datehoer/hotToday)
 
-![RSS Feeds Badge](https://img.shields.io/badge/RSS_Feeds-839+-orange.svg) ![Hot Spiders Badge](https://img.shields.io/badge/Realtime_Spiders-77-blue.svg) ![Categories Badge](https://img.shields.io/badge/Categories-11-green.svg) ![OPML Export](https://img.shields.io/badge/OPML-Supported-brightgreen.svg)
+![RSS Feeds Badge](https://img.shields.io/badge/Active_RSS_Feeds-802-orange.svg) ![Hot Spiders Badge](https://img.shields.io/badge/Realtime_Spiders-77-blue.svg) ![Categories Badge](https://img.shields.io/badge/Categories-11-green.svg) ![Cleaned & Verified](https://img.shields.io/badge/Status-Cleaned_%26_Verified-brightgreen.svg)
 
 ---
 
@@ -21,22 +21,22 @@
 
 ## 📌 Table of Contents (Mục lục Danh mục)
 
-- [🤖 AI & Machine Learning (84)](#-ai_ml)
-- [💻 Programming & Software Engineering (49)](#-programming)
+- [🤖 AI & Machine Learning (80)](#-ai_ml)
+- [💻 Programming & Software Engineering (48)](#-programming)
 - [📱 Mobile & Platforms (69)](#-mobile)
-- [🔒 Cybersecurity & Reverse Engineering (32)](#-cybersecurity)
-- [📣 Digital Marketing, SEO & Growth (18)](#-marketing)
-- [🚀 Tech News, Eng Blogs & Startups (184)](#-tech_startups)
+- [🔒 Cybersecurity & Reverse Engineering (31)](#-cybersecurity)
+- [📣 Digital Marketing, SEO & Growth (15)](#-marketing)
+- [🚀 Tech News, Eng Blogs & Startups (170)](#-tech_startups)
 - [📈 Business, Economy & Cryptocurrency (70)](#-finance_crypto)
-- [📰 Global & Regional News (108)](#-news)
+- [📰 Global & Regional News (95)](#-news)
 - [🔬 Science, Space & Environment (49)](#-science_environment)
-- [🎨 Culture, Entertainment & Lifestyle (176)](#-lifestyle)
+- [🎨 Culture, Entertainment & Lifestyle (175)](#-lifestyle)
 - [🔥 Real-time Hot Rankings & Spiders (77)](#-hot_rankings)
 
 ---
 
 <a id='-ai_ml'></a>
-### 🤖 AI & Machine Learning (84)
+### 🤖 AI & Machine Learning (80)
 
 _Các blog công nghệ, nghiên cứu, podcast và nguồn tin về Trí tuệ nhân tạo, Deep Learning & LLMs._
 
@@ -51,7 +51,6 @@ _Các blog công nghệ, nghiên cứu, podcast và nguồn tin về Trí tuệ 
 | **Google AI Blog** | - | [RSS Feed](http://googleresearch.blogspot.com/atom.xml) | `awesome-tech-rss` |
 | **Unite.AI** | - | [RSS Feed](https://www.unite.ai/feed/) | `awesome-tech-rss` |
 | **Machine Learning** | - | [RSS Feed](http://www.reddit.com/r/MachineLearning/.rss) | `awesome-tech-rss` |
-| **Airbnb Design** | - | [RSS Feed](http://airbnb.design/feed/) | `awesome-tech-rss` |
 | **UX Daily - User Experience Daily** | - | [RSS Feed](https://interaction-design.org/rss/site_news.xml) | `awesome-tech-rss` |
 | **Neuroscience News -- ScienceDaily** | - | [RSS Feed](https://sciencedaily.com/rss/mind_brain/neuroscience.xml) | `awesome-tech-rss` |
 | **SharpBrains** | - | [RSS Feed](http://www.sharpbrains.com/feed/) | `awesome-tech-rss` |
@@ -78,7 +77,6 @@ _Các blog công nghệ, nghiên cứu, podcast và nguồn tin về Trí tuệ 
 | **Latest Science News -- ScienceDaily** | - | [RSS Feed](https://www.sciencedaily.com/rss/all.xml) | `awesome-rss-feeds` |
 | **TED Talks Daily** | - | [RSS Feed](https://pa.tedcdn.com/feeds/talks.rss) | `awesome-rss-feeds` |
 | **Sink In - Tech Learnings** | - | [RSS Feed](https://gosink.in/rss/) | `awesome-rss-feeds` |
-| **THIT HTOO LWIN (Daily News)** | - | [RSS Feed](http://www.thithtoolwin.com/feeds/posts/default) | `awesome-rss-feeds` |
 | **Daily Maverick** | - | [RSS Feed](https://www.dailymaverick.co.za/dmrss/) | `awesome-rss-feeds` |
 | **The Local** | - | [RSS Feed](https://feeds.thelocal.com/rss/es) | `awesome-rss-feeds` |
 | **EL PAÍS: el periódico global** | - | [RSS Feed](https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada) | `awesome-rss-feeds` |
@@ -100,9 +98,7 @@ _Các blog công nghệ, nghiên cứu, podcast và nguồn tin về Trí tuệ 
 | **Информационное агентство УНИАН** | - | [RSS Feed](https://rss.unian.net/site/news_rus.rss) | `awesome-rss-feeds` |
 | **Еспресо - український погляд на світ!** | - | [RSS Feed](https://espreso.tv/rss) | `awesome-rss-feeds` |
 | **Gazeta.ua** | - | [RSS Feed](https://gazeta.ua/rss) | `awesome-rss-feeds` |
-| **Вести.ua** | - | [RSS Feed](https://vesti.ua/feeds/partners) | `awesome-rss-feeds` |
 | **ai_first_podcast** | [Website](https://ai-first.ai/podcast) | [RSS Feed](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ai_first_podcast.xml) | `Olshansk/rss-feeds` |
-| **anthropic_eng** | [Website](https://www.anthropic.com/engineering) | [RSS Feed](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_eng.xml) | `Olshansk/rss-feeds` |
 | **anthropic_news** | [Website](https://www.anthropic.com/news) | [RSS Feed](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml) | `Olshansk/rss-feeds` |
 | **anthropic_red** | [Website](https://red.anthropic.com/) | [RSS Feed](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml) | `Olshansk/rss-feeds` |
 | **anthropic_research** | [Website](https://www.anthropic.com/research) | [RSS Feed](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml) | `Olshansk/rss-feeds` |
@@ -128,7 +124,7 @@ _Các blog công nghệ, nghiên cứu, podcast và nguồn tin về Trí tuệ 
 | **xainews** | [Website](https://x.ai/news) | [RSS Feed](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml) | `Olshansk/rss-feeds` |
 
 <a id='-programming'></a>
-### 💻 Programming & Software Engineering (49)
+### 💻 Programming & Software Engineering (48)
 
 _Lập trình, Phát triển Web, Backend, Frontend, DevOps, System Architecture & Ngôn ngữ lập trình._
 
@@ -173,7 +169,6 @@ _Lập trình, Phát triển Web, Backend, Frontend, DevOps, System Architecture
 | **The Stack Overflow Podcast** | - | [RSS Feed](https://feeds.simplecast.com/XA_851k3) | `awesome-rss-feeds` |
 | **The Women in Tech Show: A Technical Podcast** | - | [RSS Feed](https://thewomenintechshow.com/category/podcast/feed/) | `awesome-rss-feeds` |
 | **programming** | - | [RSS Feed](https://www.reddit.com/r/programming/.rss) | `awesome-rss-feeds` |
-| **Articles on Smashing Magazine — For Web Designers And Developers** | - | [RSS Feed](https://www.smashingmagazine.com/feed) | `awesome-rss-feeds` |
 | **Boxes and Arrows** | - | [RSS Feed](http://boxesandarrows.com/rss/) | `awesome-rss-feeds` |
 | **JUST™ Creative** | - | [RSS Feed](https://feeds.feedburner.com/JustCreativeDesignBlog) | `awesome-rss-feeds` |
 | **UX Movement** | - | [RSS Feed](https://uxmovement.com/feed/) | `awesome-rss-feeds` |
@@ -262,7 +257,7 @@ _Phát triển ứng dụng di động Android, iOS, Hệ sinh thái Apple & Goo
 | **Axios** | - | [RSS Feed](https://api.axios.com/feed/) | `awesome-rss-feeds` |
 
 <a id='-cybersecurity'></a>
-### 🔒 Cybersecurity & Reverse Engineering (32)
+### 🔒 Cybersecurity & Reverse Engineering (31)
 
 _An toàn thông tin, An ninh mạng, Khai thác lỗ hổng, Reverse Engineering & Hacking News._
 
@@ -295,14 +290,13 @@ _An toàn thông tin, An ninh mạng, Khai thác lỗ hổng, Reverse Engineerin
 | **HackerNoon.com - Medium** | - | [RSS Feed](https://medium.com/feed/hackernoon) | `awesome-rss-feeds` |
 | **60-Second Science** | - | [RSS Feed](http://rss.sciam.com/sciam/60secsciencepodcast) | `awesome-rss-feeds` |
 | **Hacker News: Front Page** | - | [RSS Feed](https://hnrss.org/frontpage) | `awesome-rss-feeds` |
-| **Hacker News** | - | [RSS Feed](https://news.ycombinator.com/rss) | `awesome-rss-feeds` |
 | **Lifehacker** | - | [RSS Feed](https://lifehacker.com/rss) | `awesome-rss-feeds` |
 | **CNN.com - RSS Channel - App Travel Section** | - | [RSS Feed](http://rss.cnn.com/rss/cnn_travel.rss) | `awesome-rss-feeds` |
 | **Million Mile Secrets** | - | [RSS Feed](http://feeds.feedburner.com/MillionMileSecrets) | `awesome-rss-feeds` |
 | **IOL section feed for News** | - | [RSS Feed](http://rss.iol.io/iol/news) | `awesome-rss-feeds` |
 
 <a id='-marketing'></a>
-### 📣 Digital Marketing, SEO & Growth (18)
+### 📣 Digital Marketing, SEO & Growth (15)
 
 _Marketing kỹ thuật số, Tối ưu hóa công cụ tìm kiếm (SEO), Content Marketing, Social Media, Email Marketing, Analytics & CRM._
 
@@ -310,7 +304,6 @@ _Marketing kỹ thuật số, Tối ưu hóa công cụ tìm kiếm (SEO), Conte
 | :--- | :--- | :--- | :--- |
 | **Moz** | - | [RSS Feed](http://feeds.feedburner.com/seomoz) | `awesome-tech-rss` |
 | **Content Marketing Institute** | - | [RSS Feed](http://feeds.feedburner.com/cmi-content-marketing) | `awesome-tech-rss` |
-| **MarketingProfs** | - | [RSS Feed](http://rss.marketingprofs.com/marketingprofs/daily) | `awesome-tech-rss` |
 | **Marketo Marketing blog** | - | [RSS Feed](http://feeds.feedburner.com/modernb2bmarketing) | `awesome-tech-rss` |
 | **Social Media Examiner \| Social Media Marketing** | - | [RSS Feed](http://www.socialmediaexaminer.com/feed/) | `awesome-tech-rss` |
 | **Hubspot** | - | [RSS Feed](http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=6307&moduleid=8441&maxcount=25) | `awesome-tech-rss` |
@@ -321,14 +314,12 @@ _Marketing kỹ thuật số, Tối ưu hóa công cụ tìm kiếm (SEO), Conte
 | **Copyblogger** | [Website](https://copyblogger.com) | [RSS Feed](https://copyblogger.com/feed/) | `user_added` |
 | **Moz Blog** | [Website](https://moz.com/blog) | [RSS Feed](https://moz.com/blog/feed) | `user_added` |
 | **Search Engine Land** | [Website](https://searchengineland.com) | [RSS Feed](https://searchengineland.com/feed) | `user_added` |
-| **Backlinko** | [Website](https://backlinko.com) | [RSS Feed](https://backlinko.com/feed) | `user_added` |
 | **Neil Patel Blog** | [Website](https://neilpatel.com/blog/) | [RSS Feed](https://neilpatel.com/blog/feed/) | `user_added` |
-| **Social Media Examiner** | [Website](https://www.socialmediaexaminer.com) | [RSS Feed](https://www.socialmediaexaminer.com/feed/) | `user_added` |
 | **Buffer Resources** | [Website](https://buffer.com/resources/) | [RSS Feed](https://buffer.com/resources/rss/) | `user_added` |
 | **Salesforce Blog** | [Website](https://www.salesforce.com/blog/) | [RSS Feed](https://www.salesforce.com/blog/feed/) | `user_added` |
 
 <a id='-tech_startups'></a>
-### 🚀 Tech News, Eng Blogs & Startups (184)
+### 🚀 Tech News, Eng Blogs & Startups (170)
 
 _Tin tức công nghệ, Blog kỹ thuật của các tập đoàn lớn, Khởi nghiệp, VC & Quản lý sản phẩm._
 
@@ -345,26 +336,20 @@ _Tin tức công nghệ, Blog kỹ thuật của các tập đoàn lớn, Khởi
 | **The singularity is nearer** | - | [RSS Feed](https://geohot.github.io/blog/feed.xml) | `awesome-tech-rss` |
 | **Guy Kawasaki** | - | [RSS Feed](http://guykawasaki.com/feed/) | `awesome-tech-rss` |
 | **Essays - Benedict Evans** | - | [RSS Feed](http://ben-evans.com/benedictevans?format=rss) | `awesome-tech-rss` |
-| **First Round Review** | - | [RSS Feed](http://firstround.com/review/feed.xml) | `awesome-tech-rss` |
 | **Sam Altman** | - | [RSS Feed](http://blog.samaltman.com/posts.atom) | `awesome-tech-rss` |
 | **Andrew Chen** | - | [RSS Feed](http://andrewchen.co/feed/) | `awesome-tech-rss` |
 | **Both Sides of the Table - Medium** | - | [RSS Feed](https://bothsidesofthetable.com/feed) | `awesome-tech-rss` |
 | **Both Sides of the Table** | - | [RSS Feed](http://feeds.feedburner.com/BothSidesOfTheTable) | `awesome-tech-rss` |
-| **OnStartups** | - | [RSS Feed](http://feed.onstartups.com/onstartups) | `awesome-tech-rss` |
 | **The Black Box of Product Management - Medium** | - | [RSS Feed](https://medium.com/feed/the-black-box-of-product-management) | `awesome-tech-rss` |
 | **Product Life** | - | [RSS Feed](https://productlife.to/feed) | `awesome-tech-rss` |
 | **Irrational Exuberance** | - | [RSS Feed](https://lethain.com/feeds/) | `awesome-tech-rss` |
-| **SlashGear** | - | [RSS Feed](http://feeds.slashgear.com/slashgear) | `awesome-tech-rss` |
 | **VentureBeat** | - | [RSS Feed](http://venturebeat.com/feed/) | `awesome-tech-rss` |
 | **The Verge** | - | [RSS Feed](http://www.theverge.com/rss/full.xml) | `awesome-tech-rss` |
 | **Engadget** | - | [RSS Feed](http://www.engadget.com/rss-full.xml) | `awesome-tech-rss` |
 | **Tech in Asia** | - | [RSS Feed](https://feeds2.feedburner.com/PennOlson) | `awesome-tech-rss` |
 | **TechCrunch** | - | [RSS Feed](https://techcrunch.com/feed/) | `awesome-tech-rss` |
 | **Fast Company** | - | [RSS Feed](http://www.fastcodesign.com/rss.xml) | `awesome-tech-rss` |
-| **Startups – TechCrunch** | - | [RSS Feed](https://techcrunch.com/startups/feed/) | `awesome-tech-rss` |
-| **Forbes - Leadership** | - | [RSS Feed](https://www.forbes.com/leadership/feed/) | `awesome-tech-rss` |
 | **Fast Company** | - | [RSS Feed](http://feeds.feedburner.com/fastcompany/headlines) | `awesome-tech-rss` |
-| **Forbes - Entrepreneurs** | - | [RSS Feed](http://www.forbes.com/entrepreneurs/index.xml) | `awesome-tech-rss` |
 | **Product Hunt — The best new products, every day** | - | [RSS Feed](http://www.producthunt.com/feed) | `awesome-tech-rss` |
 | **Sachin Rekhi's Blog** | - | [RSS Feed](http://feeds.feedburner.com/sachinrekhiblog) | `awesome-tech-rss` |
 | **Medium Engineering - Medium** | - | [RSS Feed](https://medium.com/feed/medium-eng) | `awesome-tech-rss` |
@@ -375,7 +360,6 @@ _Tin tức công nghệ, Blog kỹ thuật của các tập đoàn lớn, Khởi
 | **Facebook Engineering** | - | [RSS Feed](https://code.facebook.com/posts/rss) | `awesome-tech-rss` |
 | **Grokking Newsletter** | - | [RSS Feed](http://newsletter.grokking.org/?format=rss) | `awesome-tech-rss` |
 | **eBay Tech Blog** | - | [RSS Feed](http://www.ebaytechblog.com/feed/) | `awesome-tech-rss` |
-| **Spotify Engineering** | - | [RSS Feed](http://labs.spotify.com/feed/) | `awesome-tech-rss` |
 | **Twitter Engineering** | - | [RSS Feed](https://blog.twitter.com/engineering/en_us/blog.rss) | `awesome-tech-rss` |
 | **Stripe Blog** | - | [RSS Feed](https://stripe.com/blog/feed.rss) | `awesome-tech-rss` |
 | **Instagram Engineering - Medium** | - | [RSS Feed](https://instagram-engineering.com/feed) | `awesome-tech-rss` |
@@ -392,9 +376,7 @@ _Tin tức công nghệ, Blog kỹ thuật của các tập đoàn lớn, Khởi
 | **Martin Kleppmann's blog** | - | [RSS Feed](https://feeds.feedburner.com/martinkl?format=xml) | `awesome-tech-rss` |
 | **Dan Luu** | - | [RSS Feed](https://danluu.com/atom.xml) | `awesome-tech-rss` |
 | **Shopify Engineering - Shopify Engineering** | - | [RSS Feed](https://shopifyengineering.myshopify.com/blogs/engineering.atom) | `awesome-tech-rss` |
-| **Grab Tech** | - | [RSS Feed](https://engineering.grab.com/feed.xml) | `awesome-tech-rss` |
 | **Josh Comeau's blog** | - | [RSS Feed](https://joshwcomeau.com/rss.xml) | `awesome-tech-rss` |
-| **Uber Engineering Blog** | - | [RSS Feed](https://eng.uber.com/feed/) | `awesome-tech-rss` |
 | **Flurries of latent creativity - Stripe CTO blog** | - | [RSS Feed](https://blog.singleton.io/index.xml) | `awesome-tech-rss` |
 | **Sophie Alpert** | - | [RSS Feed](https://sophiebits.com/atom.xml) | `awesome-tech-rss` |
 | **Amjad Masad** | - | [RSS Feed](https://amasad.me/rss) | `awesome-tech-rss` |
@@ -421,7 +403,6 @@ _Tin tức công nghệ, Blog kỹ thuật của các tập đoàn lớn, Khởi
 | **UX Planet** | - | [RSS Feed](https://uxplanet.org/feed) | `awesome-tech-rss` |
 | **NN/g latest articles and announcements** | - | [RSS Feed](https://www.nngroup.com/feed/rss/) | `awesome-tech-rss` |
 | **UX Movement** | - | [RSS Feed](http://feeds.feedburner.com/uxmovement) | `awesome-tech-rss` |
-| **Inside Design** | - | [RSS Feed](http://blog.invisionapp.com/feed/) | `awesome-tech-rss` |
 | **UXmatters** | - | [RSS Feed](https://uxmatters.com/index.xml) | `awesome-tech-rss` |
 | **UX Collective - Medium** | - | [RSS Feed](https://uxdesign.cc/feed) | `awesome-tech-rss` |
 | **web.dev** | - | [RSS Feed](https://web.dev/feed.xml) | `awesome-tech-rss` |
@@ -429,9 +410,7 @@ _Tin tức công nghệ, Blog kỹ thuật của các tập đoàn lớn, Khởi
 | **PsyBlog** | - | [RSS Feed](http://feeds.feedburner.com/PsychologyBlog) | `awesome-tech-rss` |
 | **Psychology Blog** | - | [RSS Feed](http://www.all-about-psychology.com/psychology.xml) | `awesome-tech-rss` |
 | **Psychology Headlines Around the World** | - | [RSS Feed](http://www.socialpsychology.org/headlines.rss) | `awesome-tech-rss` |
-| **Nautilus** | - | [RSS Feed](https://nautil.us/rss/all) | `awesome-tech-rss` |
 | **Freakonomics** | - | [RSS Feed](http://freakonomics.blogs.nytimes.com/feed/) | `awesome-tech-rss` |
-| **Psychology Today** | - | [RSS Feed](https://www.psychologytoday.com/intl/rss.xml) | `awesome-tech-rss` |
 | **Neuroscience News** | - | [RSS Feed](http://neurosciencenews.com/feed/) | `awesome-tech-rss` |
 | **Nautilus** | - | [RSS Feed](http://nautil.us/rss/all) | `awesome-tech-rss` |
 | **Quanta Magazine** | - | [RSS Feed](http://www.quantamagazine.org/feed/) | `awesome-tech-rss` |
@@ -477,10 +456,8 @@ _Tin tức công nghệ, Blog kỹ thuật của các tập đoàn lớn, Khởi
 | **Marie Forleo** | - | [RSS Feed](https://www.youtube.com/feeds/videos.xml?user=marieforleo) | `awesome-rss-feeds` |
 | **Masters of Scale** | - | [RSS Feed](https://rss.art19.com/masters-of-scale) | `awesome-rss-feeds` |
 | **Paul Graham: Essays** | - | [RSS Feed](http://www.aaronsw.com/2002/feeds/pgessays.rss) | `awesome-rss-feeds` |
-| **Product Hunt — The best new products, every day** | - | [RSS Feed](https://www.producthunt.com/feed) | `awesome-rss-feeds` |
 | **Small Business Trends** | - | [RSS Feed](https://feeds2.feedburner.com/SmallBusinessTrends) | `awesome-rss-feeds` |
 | **Smart Passive Income** | - | [RSS Feed](http://feeds.feedburner.com/smartpassiveincome) | `awesome-rss-feeds` |
-| **Steve Blank** | - | [RSS Feed](https://steveblank.com/feed/) | `awesome-rss-feeds` |
 | **The Intercom Blog** | - | [RSS Feed](https://www.intercom.com/blog/feed) | `awesome-rss-feeds` |
 | **The Startup Junkies Podcast** | - | [RSS Feed](https://startupjunkie.libsyn.com/rss) | `awesome-rss-feeds` |
 | **The Tim Ferriss Show** | - | [RSS Feed](https://rss.art19.com/tim-ferriss-show) | `awesome-rss-feeds` |
@@ -598,7 +575,7 @@ _Tài chính cá nhân, Tiền điện tử (Crypto/Blockchain), Thị trường
 | **Wise Bread** | - | [RSS Feed](http://feeds.killeraces.com/wisebread) | `awesome-rss-feeds` |
 
 <a id='-news'></a>
-### 📰 Global & Regional News (108)
+### 📰 Global & Regional News (95)
 
 _Báo chí tin tức quốc tế và theo từng quốc gia (US, UK, Germany, Japan, Vietnam, etc.)._
 
@@ -653,27 +630,21 @@ _Báo chí tin tức quốc tế và theo từng quốc gia (US, UK, Germany, Ja
 | **Tennis \| The Indian Express** | - | [RSS Feed](https://indianexpress.com/section/sports/tennis/feed/) | `awesome-rss-feeds` |
 | **Travel \| The Guardian** | - | [RSS Feed](https://www.theguardian.com/uk/travel/rss) | `awesome-rss-feeds` |
 | **Folha de S.Paulo - Em cima da hora - Principal** | - | [RSS Feed](https://feeds.folha.uol.com.br/emcimadahora/rss091.xml) | `awesome-rss-feeds` |
-| **Portal EBC - RSS** | - | [RSS Feed](http://www.ebc.com.br/rss/feed.xml) | `awesome-rss-feeds` |
-| **R7 - Notícias** | - | [RSS Feed](https://noticias.r7.com/feed.xml) | `awesome-rss-feeds` |
 | **UOL** | - | [RSS Feed](http://rss.home.uol.com.br/index.xml) | `awesome-rss-feeds` |
 | **The Rio Times** | - | [RSS Feed](https://riotimesonline.com/feed/) | `awesome-rss-feeds` |
 | **Brasil Wire** | - | [RSS Feed](http://www.brasilwire.com/feed/) | `awesome-rss-feeds` |
 | **Jornal de Brasília** | - | [RSS Feed](https://jornaldebrasilia.com.br/feed/) | `awesome-rss-feeds` |
 | **ZEIT ONLINE \| Nachrichten, Hintergründe und Debatten** | - | [RSS Feed](http://newsfeed.zeit.de/index) | `awesome-rss-feeds` |
-| **FOCUS Online** | - | [RSS Feed](https://rss.focus.de/fol/XML/rss_folnews.xml) | `awesome-rss-feeds` |
 | **Aktuell - FAZ.NET** | - | [RSS Feed](https://www.faz.net/rss/aktuell/) | `awesome-rss-feeds` |
 | **tagesschau.de - Die Nachrichten der ARD** | - | [RSS Feed](http://www.tagesschau.de/xml/rss2) | `awesome-rss-feeds` |
 | **Deutsche Welle** | - | [RSS Feed](https://rss.dw.com/rdf/rss-en-all) | `awesome-rss-feeds` |
 | **Republika Online RSS Feed** | - | [RSS Feed](https://www.republika.co.id/rss/) | `awesome-rss-feeds` |
 | **Tribunnews.com** | - | [RSS Feed](https://www.tribunnews.com/rss) | `awesome-rss-feeds` |
-| **Merdeka.com** | - | [RSS Feed](https://www.merdeka.com/feed/) | `awesome-rss-feeds` |
-| **Suara.com** | - | [RSS Feed](https://www.suara.com/rss) | `awesome-rss-feeds` |
 | **خبرگزاری باشگاه خبرنگاران \| آخرین اخبار ایران و جهان \| YJC** | - | [RSS Feed](https://www.yjc.ir/fa/rss/allnews) | `awesome-rss-feeds` |
 | **تابناک \| TABNAK** | - | [RSS Feed](https://www.tabnak.ir/fa/rss/allnews) | `awesome-rss-feeds` |
 | **خبرگزاری ایسنا \| صفحه اصلی \|  ISNA News Agency** | - | [RSS Feed](https://www.isna.ir/rss) | `awesome-rss-feeds` |
 | **خبرگزاری مهر \| اخبار ایران و جهان \| Mehr News Agency** | - | [RSS Feed](https://www.mehrnews.com/rss) | `awesome-rss-feeds` |
 | **خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان \| Khabaronline** | - | [RSS Feed](https://www.khabaronline.ir/rss) | `awesome-rss-feeds` |
-| **اخبار ایران و جهان** | - | [RSS Feed](https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85) | `awesome-rss-feeds` |
 | **عصر ايران** | - | [RSS Feed](https://www.asriran.com/fa/rss/allnews) | `awesome-rss-feeds` |
 | **TheJournal.ie** | - | [RSS Feed](https://www.thejournal.ie/feed/) | `awesome-rss-feeds` |
 | **All: BreakingNews.ie** | - | [RSS Feed](https://feeds.breakingnews.ie/bntopstories) | `awesome-rss-feeds` |
@@ -684,13 +655,10 @@ _Báo chí tin tức quốc tế và theo từng quốc gia (US, UK, Germany, Ja
 | **Japan Times latest articles** | - | [RSS Feed](https://www.japantimes.co.jp/feed/topstories/) | `awesome-rss-feeds` |
 | **Japan Today** | - | [RSS Feed](https://japantoday.com/feed) | `awesome-rss-feeds` |
 | **News On Japan** | - | [RSS Feed](http://www.newsonjapan.com/rss/top.xml) | `awesome-rss-feeds` |
-| **All - Kyodo News+** | - | [RSS Feed](https://english.kyodonews.net/rss/all.xml) | `awesome-rss-feeds` |
 | **BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報** | - | [RSS Feed](http://feeds.feedburner.com/SdJapan) | `awesome-rss-feeds` |
 | **NYT > Japan** | - | [RSS Feed](https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml) | `awesome-rss-feeds` |
 | **ライブドアニュース - 主要トピックス** | - | [RSS Feed](https://news.livedoor.com/topics/rss/top.xml) | `awesome-rss-feeds` |
 | **朝日新聞デジタル** | - | [RSS Feed](http://rss.asahi.com/rss/asahi/newsheadlines.rdf) | `awesome-rss-feeds` |
-| **Myanmar Gazette News Media Forum Network** | - | [RSS Feed](http://myanmargazette.net/feed) | `awesome-rss-feeds` |
-| **DVB Multimedia Group** | - | [RSS Feed](http://www.dvb.no/feed) | `awesome-rss-feeds` |
 | **The Express Tribune** | - | [RSS Feed](https://tribune.com.pk/feed/home) | `awesome-rss-feeds` |
 | **The Nation - Top Stories** | - | [RSS Feed](https://nation.com.pk/rss/top-stories) | `awesome-rss-feeds` |
 | **قومی خبریں** | - | [RSS Feed](https://jang.com.pk/rss/1/1) | `awesome-rss-feeds` |
@@ -705,12 +673,8 @@ _Báo chí tin tức quốc tế và theo từng quốc gia (US, UK, Germany, Ja
 | **https://www.rp.pl** | - | [RSS Feed](https://www.rp.pl/rss/1019) | `awesome-rss-feeds` |
 | **Polska Agencja Prasowa SA** | - | [RSS Feed](https://www.pap.pl/rss.xml) | `awesome-rss-feeds` |
 | **RMF24.pl** | - | [RSS Feed](https://www.rmf24.pl/feed) | `awesome-rss-feeds` |
-| **SowetanLIVE** | - | [RSS Feed](https://www.sowetanlive.co.za/rss/?publication=sowetan-live) | `awesome-rss-feeds` |
-| **News24 Top Stories** | - | [RSS Feed](http://feeds.news24.com/articles/news24/TopStories/rss) | `awesome-rss-feeds` |
-| **Eyewitness News \| Latest News** | - | [RSS Feed](https://ewn.co.za/RSS%20Feeds/Latest%20News) | `awesome-rss-feeds` |
 | **The Citizen** | - | [RSS Feed](https://citizen.co.za/feed/) | `awesome-rss-feeds` |
 | **Moneyweb** | - | [RSS Feed](https://www.moneyweb.co.za/feed/) | `awesome-rss-feeds` |
-| **TimesLIVE** | - | [RSS Feed](https://www.timeslive.co.za/rss/) | `awesome-rss-feeds` |
 | **The South African** | - | [RSS Feed](https://www.thesouthafrican.com/feed/) | `awesome-rss-feeds` |
 
 <a id='-science_environment'></a>
@@ -771,7 +735,7 @@ _Khoa học tự nhiên, Khám phá vũ trụ, Thiên văn học & Khí hậu m�
 | **SpaceX** | - | [RSS Feed](https://www.youtube.com/feeds/videos.xml?user=spacexchannel) | `awesome-rss-feeds` |
 
 <a id='-lifestyle'></a>
-### 🎨 Culture, Entertainment & Lifestyle (176)
+### 🎨 Culture, Entertainment & Lifestyle (175)
 
 _Giải trí, Gaming, Điện ảnh, Âm nhạc, Nhiếp ảnh, Thiết kế UI/UX, Ô tô, Du lịch & Thể thao._
 
@@ -933,7 +897,6 @@ _Giải trí, Gaming, Điện ảnh, Âm nhạc, Nhiếp ảnh, Thiết kế UI/
 | **One Big Photo** | - | [RSS Feed](http://feeds.feedburner.com/OneBigPhoto) | `awesome-rss-feeds` |
 | **PetaPixel** | - | [RSS Feed](https://petapixel.com/feed/) | `awesome-rss-feeds` |
 | **Strobist** | - | [RSS Feed](http://feeds.feedburner.com/blogspot/WOBq) | `awesome-rss-feeds` |
-| **Stuck in Customs** | - | [RSS Feed](https://stuckincustoms.com/feed/) | `awesome-rss-feeds` |
 | **The Boston Globe** | - | [RSS Feed](https://www.bostonglobe.com/rss/bigpicture) | `awesome-rss-feeds` |
 | **** | - | [RSS Feed](https://sports.yahoo.com/rss/) | `awesome-rss-feeds` |
 | **CNN.com - RSS Channel - Sport** | - | [RSS Feed](http://rss.cnn.com/rss/edition_sport.rss) | `awesome-rss-feeds` |

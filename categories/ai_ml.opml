@@ -14,7 +14,6 @@
       <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl=""/>
       <outline type="rss" text="Unite.AI" title="Unite.AI" xmlUrl="https://www.unite.ai/feed/" htmlUrl=""/>
       <outline type="rss" text="Machine Learning" title="Machine Learning" xmlUrl="http://www.reddit.com/r/MachineLearning/.rss" htmlUrl=""/>
-      <outline type="rss" text="Airbnb Design" title="Airbnb Design" xmlUrl="http://airbnb.design/feed/" htmlUrl=""/>
       <outline type="rss" text="UX Daily - User Experience Daily" title="UX Daily - User Experience Daily" xmlUrl="https://interaction-design.org/rss/site_news.xml" htmlUrl=""/>
       <outline type="rss" text="Neuroscience News -- ScienceDaily" title="Neuroscience News -- ScienceDaily" xmlUrl="https://sciencedaily.com/rss/mind_brain/neuroscience.xml" htmlUrl=""/>
       <outline type="rss" text="SharpBrains" title="SharpBrains" xmlUrl="http://www.sharpbrains.com/feed/" htmlUrl=""/>
@@ -41,7 +40,6 @@
       <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl=""/>
       <outline type="rss" text="TED Talks Daily" title="TED Talks Daily" xmlUrl="https://pa.tedcdn.com/feeds/talks.rss" htmlUrl=""/>
       <outline type="rss" text="Sink In - Tech Learnings" title="Sink In - Tech Learnings" xmlUrl="https://gosink.in/rss/" htmlUrl=""/>
-      <outline type="rss" text="THIT HTOO LWIN (Daily News)" title="THIT HTOO LWIN (Daily News)" xmlUrl="http://www.thithtoolwin.com/feeds/posts/default" htmlUrl=""/>
       <outline type="rss" text="Daily Maverick" title="Daily Maverick" xmlUrl="https://www.dailymaverick.co.za/dmrss/" htmlUrl=""/>
       <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/es" htmlUrl=""/>
       <outline type="rss" text="EL PAÍS: el periódico global" title="EL PAÍS: el periódico global" xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada" htmlUrl=""/>
@@ -63,9 +61,7 @@
       <outline type="rss" text="Информационное агентство УНИАН" title="Информационное агентство УНИАН" xmlUrl="https://rss.unian.net/site/news_rus.rss" htmlUrl=""/>
       <outline type="rss" text="Еспресо - український погляд на світ!" title="Еспресо - український погляд на світ!" xmlUrl="https://espreso.tv/rss" htmlUrl=""/>
       <outline type="rss" text="Gazeta.ua" title="Gazeta.ua" xmlUrl="https://gazeta.ua/rss" htmlUrl=""/>
-      <outline type="rss" text="Вести.ua" title="Вести.ua" xmlUrl="https://vesti.ua/feeds/partners" htmlUrl=""/>
       <outline type="rss" text="ai_first_podcast" title="ai_first_podcast" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ai_first_podcast.xml" htmlUrl="https://ai-first.ai/podcast"/>
-      <outline type="rss" text="anthropic_eng" title="anthropic_eng" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_eng.xml" htmlUrl="https://www.anthropic.com/engineering"/>
       <outline type="rss" text="anthropic_news" title="anthropic_news" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" htmlUrl="https://www.anthropic.com/news"/>
       <outline type="rss" text="anthropic_red" title="anthropic_red" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_red.xml" htmlUrl="https://red.anthropic.com/"/>
       <outline type="rss" text="anthropic_research" title="anthropic_research" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml" htmlUrl="https://www.anthropic.com/research"/>

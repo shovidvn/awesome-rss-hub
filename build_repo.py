@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import re
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
 import shutil
@@ -8,6 +9,7 @@ import shutil
 sys.stdout.reconfigure(encoding='utf-8')
 
 SCRATCH_JSON = r'C:\Users\VIET ANH\.gemini\antigravity\brain\da93b749-80ec-4171-84ef-d83252eac7a3\scratch\all_feeds.json'
+REPORT_JSON = r'C:\Users\VIET ANH\.gemini\antigravity\brain\da93b749-80ec-4171-84ef-d83252eac7a3\scratch\feed_validation_report.json'
 OUTPUT_DIR = r'd:\Projects\Clone Projects\FastScene\awesome-rss-hub'
 
 USER_MARKETING_FEEDS = [
@@ -209,6 +211,15 @@ def classify_feed(item):
 
     return 'tech_startups'
 
+def normalize_url_for_dedup(url):
+    if not url:
+        return ""
+    url = url.strip().lower()
+    url = re.sub(r'^https?://', '', url)
+    url = re.sub(r'/$', '', url)
+    url = re.sub(r'/index\.(xml|rss|php|html)$', '', url)
+    return url
+
 def format_xml(elem):
     rough_string = ET.tostring(elem, 'utf-8')
     reparsed = minidom.parseString(rough_string)
@@ -224,15 +235,42 @@ def main():
     rss_feeds = data.get('rss_feeds', []) + USER_MARKETING_FEEDS
     hot_spiders = data.get('hot_spiders', [])
 
-    # Deduplicate RSS feeds by xml_url
-    seen_urls = set()
+    # Load validation report to filter dead feeds
+    dead_urls = set()
+    if os.path.exists(REPORT_JSON):
+        with open(REPORT_JSON, 'r', encoding='utf-8') as f:
+            rep = json.load(f)
+            for df in rep.get('dead_feeds_details', []):
+                u = df['item'].get('xml_url')
+                if u:
+                    dead_urls.add(u.strip())
+
+    print(f"Filter registered dead feed URLs count: {len(dead_urls)}")
+
+    # Deduplicate RSS feeds & filter dead feeds
+    seen_norm_urls = set()
     unique_feeds = []
+    removed_dead_count = 0
+    removed_dup_count = 0
 
     for item in rss_feeds:
         xml_url = item.get('xml_url', '').strip()
-        if xml_url and xml_url not in seen_urls:
-            seen_urls.add(xml_url)
+        norm_url = normalize_url_for_dedup(xml_url)
+        
+        if xml_url in dead_urls:
+            removed_dead_count += 1
+            continue
+
+        if norm_url and norm_url in seen_norm_urls:
+            removed_dup_count += 1
+            continue
+
+        if norm_url:
+            seen_norm_urls.add(norm_url)
             unique_feeds.append(item)
+
+    print(f"Cleaned Feeds Summary: Removed {removed_dup_count} duplicates and {removed_dead_count} confirmed dead feeds.")
+    print(f"Active validated RSS feeds: {len(unique_feeds)}")
 
     # Categorize items
     categorized = {cat['id']: [] for cat in CATEGORIES}
@@ -249,11 +287,11 @@ def main():
 
     total_all = len(unique_feeds) + len(hot_spiders)
 
-    print("\n--- Category Summary ---")
+    print("\n--- Cleaned Category Breakdown ---")
     for cat in CATEGORIES:
         cid = cat['id']
         print(f"  {cat['title']}: {len(categorized[cid])} items")
-    print(f"TOTAL ITEMS: {total_all}\n")
+    print(f"TOTAL ACTIVE ITEMS: {total_all}\n")
 
     # 1. Create categories/ directory
     cats_dir = os.path.join(OUTPUT_DIR, 'categories')
@@ -313,9 +351,11 @@ def main():
     master_data = {
         "metadata": {
             "title": "Master Awesome RSS Directory",
-            "total_rss_feeds": len(unique_feeds),
+            "total_active_rss_feeds": len(unique_feeds),
             "total_hot_spiders": len(hot_spiders),
-            "total_items": total_all,
+            "total_active_items": total_all,
+            "removed_duplicates": removed_dup_count,
+            "removed_dead_feeds": removed_dead_count,
             "sources": [
                 "https://github.com/tuan3w/awesome-tech-rss",
                 "https://github.com/plenaryapp/awesome-rss-feeds",
@@ -351,16 +391,16 @@ def main():
     readme_path = os.path.join(OUTPUT_DIR, 'README.md')
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write("# 📡 Ultimate Master RSS Directory & Hot Trends Aggregator\n\n")
-        f.write("> **Kho lưu trữ tổng hợp nguồn tin RSS & Hot Trends thời gian thực lớn nhất**, gom nhóm và tối ưu từ 4 nguồn chính trên GitHub + Các nguồn Marketing tuyển chọn:\n")
+        f.write("> **Kho lưu trữ tổng hợp nguồn tin RSS & Hot Trends thời gian thực lớn nhất**, gom nhóm và đã lọc bỏ hoàn toàn trùng lặp & nguồn tin lỗi:\n")
         f.write("> 1. [`tuan3w/awesome-tech-rss`](https://github.com/tuan3w/awesome-tech-rss)\n")
         f.write("> 2. [`plenaryapp/awesome-rss-feeds`](https://github.com/plenaryapp/awesome-rss-feeds)\n")
         f.write("> 3. [`Olshansk/rss-feeds`](https://github.com/Olshansk/rss-feeds)\n")
         f.write("> 4. [`datehoer/hotToday`](https://github.com/datehoer/hotToday)\n\n")
 
-        f.write("![RSS Feeds Badge](https://img.shields.io/badge/RSS_Feeds-839+-orange.svg) ")
-        f.write("![Hot Spiders Badge](https://img.shields.io/badge/Realtime_Spiders-77-blue.svg) ")
+        f.write(f"![RSS Feeds Badge](https://img.shields.io/badge/Active_RSS_Feeds-{len(unique_feeds)}-orange.svg) ")
+        f.write(f"![Hot Spiders Badge](https://img.shields.io/badge/Realtime_Spiders-{len(hot_spiders)}-blue.svg) ")
         f.write("![Categories Badge](https://img.shields.io/badge/Categories-11-green.svg) ")
-        f.write("![OPML Export](https://img.shields.io/badge/OPML-Supported-brightgreen.svg)\n\n")
+        f.write("![Cleaned & Verified](https://img.shields.io/badge/Status-Cleaned_%26_Verified-brightgreen.svg)\n\n")
 
         f.write("---\n\n")
         f.write("## 📥 Quick Import Guide (Hướng dẫn sử dụng)\n\n")
@@ -428,7 +468,7 @@ def main():
     if not os.path.exists(target_script) or not os.path.samefile(__file__, target_script):
         shutil.copy2(__file__, target_script)
 
-    print(f"\n✅ Repository packaged successfully in: {OUTPUT_DIR}")
+    print(f"\n✅ Cleaned Repository packaged successfully in: {OUTPUT_DIR}")
 
 if __name__ == '__main__':
     main()

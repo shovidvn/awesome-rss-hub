@@ -16,26 +16,20 @@
       <outline type="rss" text="The singularity is nearer" title="The singularity is nearer" xmlUrl="https://geohot.github.io/blog/feed.xml" htmlUrl=""/>
       <outline type="rss" text="Guy Kawasaki" title="Guy Kawasaki" xmlUrl="http://guykawasaki.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Essays - Benedict Evans" title="Essays - Benedict Evans" xmlUrl="http://ben-evans.com/benedictevans?format=rss" htmlUrl=""/>
-      <outline type="rss" text="First Round Review" title="First Round Review" xmlUrl="http://firstround.com/review/feed.xml" htmlUrl=""/>
       <outline type="rss" text="Sam Altman" title="Sam Altman" xmlUrl="http://blog.samaltman.com/posts.atom" htmlUrl=""/>
       <outline type="rss" text="Andrew Chen" title="Andrew Chen" xmlUrl="http://andrewchen.co/feed/" htmlUrl=""/>
       <outline type="rss" text="Both Sides of the Table - Medium" title="Both Sides of the Table - Medium" xmlUrl="https://bothsidesofthetable.com/feed" htmlUrl=""/>
       <outline type="rss" text="Both Sides of the Table" title="Both Sides of the Table" xmlUrl="http://feeds.feedburner.com/BothSidesOfTheTable" htmlUrl=""/>
-      <outline type="rss" text="OnStartups" title="OnStartups" xmlUrl="http://feed.onstartups.com/onstartups" htmlUrl=""/>
       <outline type="rss" text="The Black Box of Product Management - Medium" title="The Black Box of Product Management - Medium" xmlUrl="https://medium.com/feed/the-black-box-of-product-management" htmlUrl=""/>
       <outline type="rss" text="Product Life" title="Product Life" xmlUrl="https://productlife.to/feed" htmlUrl=""/>
       <outline type="rss" text="Irrational Exuberance" title="Irrational Exuberance" xmlUrl="https://lethain.com/feeds/" htmlUrl=""/>
-      <outline type="rss" text="SlashGear" title="SlashGear" xmlUrl="http://feeds.slashgear.com/slashgear" htmlUrl=""/>
       <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="http://venturebeat.com/feed/" htmlUrl=""/>
       <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/full.xml" htmlUrl=""/>
       <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss-full.xml" htmlUrl=""/>
       <outline type="rss" text="Tech in Asia" title="Tech in Asia" xmlUrl="https://feeds2.feedburner.com/PennOlson" htmlUrl=""/>
       <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="http://www.fastcodesign.com/rss.xml" htmlUrl=""/>
-      <outline type="rss" text="Startups – TechCrunch" title="Startups – TechCrunch" xmlUrl="https://techcrunch.com/startups/feed/" htmlUrl=""/>
-      <outline type="rss" text="Forbes - Leadership" title="Forbes - Leadership" xmlUrl="https://www.forbes.com/leadership/feed/" htmlUrl=""/>
       <outline type="rss" text="Fast Company" title="Fast Company" xmlUrl="http://feeds.feedburner.com/fastcompany/headlines" htmlUrl=""/>
-      <outline type="rss" text="Forbes - Entrepreneurs" title="Forbes - Entrepreneurs" xmlUrl="http://www.forbes.com/entrepreneurs/index.xml" htmlUrl=""/>
       <outline type="rss" text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" xmlUrl="http://www.producthunt.com/feed" htmlUrl=""/>
       <outline type="rss" text="Sachin Rekhi's Blog" title="Sachin Rekhi's Blog" xmlUrl="http://feeds.feedburner.com/sachinrekhiblog" htmlUrl=""/>
       <outline type="rss" text="Medium Engineering - Medium" title="Medium Engineering - Medium" xmlUrl="https://medium.com/feed/medium-eng" htmlUrl=""/>
@@ -46,7 +40,6 @@
       <outline type="rss" text="Facebook Engineering" title="Facebook Engineering" xmlUrl="https://code.facebook.com/posts/rss" htmlUrl=""/>
       <outline type="rss" text="Grokking Newsletter" title="Grokking Newsletter" xmlUrl="http://newsletter.grokking.org/?format=rss" htmlUrl=""/>
       <outline type="rss" text="eBay Tech Blog" title="eBay Tech Blog" xmlUrl="http://www.ebaytechblog.com/feed/" htmlUrl=""/>
-      <outline type="rss" text="Spotify Engineering" title="Spotify Engineering" xmlUrl="http://labs.spotify.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Twitter Engineering" title="Twitter Engineering" xmlUrl="https://blog.twitter.com/engineering/en_us/blog.rss" htmlUrl=""/>
       <outline type="rss" text="Stripe Blog" title="Stripe Blog" xmlUrl="https://stripe.com/blog/feed.rss" htmlUrl=""/>
       <outline type="rss" text="Instagram Engineering - Medium" title="Instagram Engineering - Medium" xmlUrl="https://instagram-engineering.com/feed" htmlUrl=""/>
@@ -63,9 +56,7 @@
       <outline type="rss" text="Martin Kleppmann's blog" title="Martin Kleppmann's blog" xmlUrl="https://feeds.feedburner.com/martinkl?format=xml" htmlUrl=""/>
       <outline type="rss" text="Dan Luu" title="Dan Luu" xmlUrl="https://danluu.com/atom.xml" htmlUrl=""/>
       <outline type="rss" text="Shopify Engineering - Shopify Engineering" title="Shopify Engineering - Shopify Engineering" xmlUrl="https://shopifyengineering.myshopify.com/blogs/engineering.atom" htmlUrl=""/>
-      <outline type="rss" text="Grab Tech" title="Grab Tech" xmlUrl="https://engineering.grab.com/feed.xml" htmlUrl=""/>
       <outline type="rss" text="Josh Comeau's blog" title="Josh Comeau's blog" xmlUrl="https://joshwcomeau.com/rss.xml" htmlUrl=""/>
-      <outline type="rss" text="Uber Engineering Blog" title="Uber Engineering Blog" xmlUrl="https://eng.uber.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Flurries of latent creativity - Stripe CTO blog" title="Flurries of latent creativity - Stripe CTO blog" xmlUrl="https://blog.singleton.io/index.xml" htmlUrl=""/>
       <outline type="rss" text="Sophie Alpert" title="Sophie Alpert" xmlUrl="https://sophiebits.com/atom.xml" htmlUrl=""/>
       <outline type="rss" text="Amjad Masad" title="Amjad Masad" xmlUrl="https://amasad.me/rss" htmlUrl=""/>
@@ -92,7 +83,6 @@
       <outline type="rss" text="UX Planet" title="UX Planet" xmlUrl="https://uxplanet.org/feed" htmlUrl=""/>
       <outline type="rss" text="NN/g latest articles and announcements" title="NN/g latest articles and announcements" xmlUrl="https://www.nngroup.com/feed/rss/" htmlUrl=""/>
       <outline type="rss" text="UX Movement" title="UX Movement" xmlUrl="http://feeds.feedburner.com/uxmovement" htmlUrl=""/>
-      <outline type="rss" text="Inside Design" title="Inside Design" xmlUrl="http://blog.invisionapp.com/feed/" htmlUrl=""/>
       <outline type="rss" text="UXmatters" title="UXmatters" xmlUrl="https://uxmatters.com/index.xml" htmlUrl=""/>
       <outline type="rss" text="UX Collective - Medium" title="UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" htmlUrl=""/>
       <outline type="rss" text="web.dev" title="web.dev" xmlUrl="https://web.dev/feed.xml" htmlUrl=""/>
@@ -100,9 +90,7 @@
       <outline type="rss" text="PsyBlog" title="PsyBlog" xmlUrl="http://feeds.feedburner.com/PsychologyBlog" htmlUrl=""/>
       <outline type="rss" text="Psychology Blog" title="Psychology Blog" xmlUrl="http://www.all-about-psychology.com/psychology.xml" htmlUrl=""/>
       <outline type="rss" text="Psychology Headlines Around the World" title="Psychology Headlines Around the World" xmlUrl="http://www.socialpsychology.org/headlines.rss" htmlUrl=""/>
-      <outline type="rss" text="Nautilus" title="Nautilus" xmlUrl="https://nautil.us/rss/all" htmlUrl=""/>
       <outline type="rss" text="Freakonomics" title="Freakonomics" xmlUrl="http://freakonomics.blogs.nytimes.com/feed/" htmlUrl=""/>
-      <outline type="rss" text="Psychology Today" title="Psychology Today" xmlUrl="https://www.psychologytoday.com/intl/rss.xml" htmlUrl=""/>
       <outline type="rss" text="Neuroscience News" title="Neuroscience News" xmlUrl="http://neurosciencenews.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Nautilus" title="Nautilus" xmlUrl="http://nautil.us/rss/all" htmlUrl=""/>
       <outline type="rss" text="Quanta Magazine" title="Quanta Magazine" xmlUrl="http://www.quantamagazine.org/feed/" htmlUrl=""/>
@@ -148,10 +136,8 @@
       <outline type="rss" text="Marie Forleo" title="Marie Forleo" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo" htmlUrl=""/>
       <outline type="rss" text="Masters of Scale" title="Masters of Scale" xmlUrl="https://rss.art19.com/masters-of-scale" htmlUrl=""/>
       <outline type="rss" text="Paul Graham: Essays" title="Paul Graham: Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl=""/>
-      <outline type="rss" text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" xmlUrl="https://www.producthunt.com/feed" htmlUrl=""/>
       <outline type="rss" text="Small Business Trends" title="Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" htmlUrl=""/>
       <outline type="rss" text="Smart Passive Income" title="Smart Passive Income" xmlUrl="http://feeds.feedburner.com/smartpassiveincome" htmlUrl=""/>
-      <outline type="rss" text="Steve Blank" title="Steve Blank" xmlUrl="https://steveblank.com/feed/" htmlUrl=""/>
       <outline type="rss" text="The Intercom Blog" title="The Intercom Blog" xmlUrl="https://www.intercom.com/blog/feed" htmlUrl=""/>
       <outline type="rss" text="The Startup Junkies Podcast" title="The Startup Junkies Podcast" xmlUrl="https://startupjunkie.libsyn.com/rss" htmlUrl=""/>
       <outline type="rss" text="The Tim Ferriss Show" title="The Tim Ferriss Show" xmlUrl="https://rss.art19.com/tim-ferriss-show" htmlUrl=""/>
