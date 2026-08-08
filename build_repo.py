@@ -10,6 +10,73 @@ sys.stdout.reconfigure(encoding='utf-8')
 SCRATCH_JSON = r'C:\Users\VIET ANH\.gemini\antigravity\brain\da93b749-80ec-4171-84ef-d83252eac7a3\scratch\all_feeds.json'
 OUTPUT_DIR = r'd:\Projects\Clone Projects\FastScene\awesome-rss-hub'
 
+USER_MARKETING_FEEDS = [
+    {
+        "title": "HubSpot Marketing Blog",
+        "xml_url": "https://blog.hubspot.com/marketing/rss.xml",
+        "html_url": "https://blog.hubspot.com/marketing",
+        "category": "Marketing - Content",
+        "source": "user_added"
+    },
+    {
+        "title": "Copyblogger",
+        "xml_url": "https://copyblogger.com/feed/",
+        "html_url": "https://copyblogger.com",
+        "category": "Marketing - Content",
+        "source": "user_added"
+    },
+    {
+        "title": "Moz Blog",
+        "xml_url": "https://moz.com/blog/feed",
+        "html_url": "https://moz.com/blog",
+        "category": "Marketing - SEO",
+        "source": "user_added"
+    },
+    {
+        "title": "Search Engine Land",
+        "xml_url": "https://searchengineland.com/feed",
+        "html_url": "https://searchengineland.com",
+        "category": "Marketing - SEO",
+        "source": "user_added"
+    },
+    {
+        "title": "Backlinko",
+        "xml_url": "https://backlinko.com/feed",
+        "html_url": "https://backlinko.com",
+        "category": "Marketing - SEO",
+        "source": "user_added"
+    },
+    {
+        "title": "Neil Patel Blog",
+        "xml_url": "https://neilpatel.com/blog/feed/",
+        "html_url": "https://neilpatel.com/blog/",
+        "category": "Marketing - Content",
+        "source": "user_added"
+    },
+    {
+        "title": "Social Media Examiner",
+        "xml_url": "https://www.socialmediaexaminer.com/feed/",
+        "html_url": "https://www.socialmediaexaminer.com",
+        "category": "Marketing - Social",
+        "source": "user_added"
+    },
+    {
+        "title": "Buffer Resources",
+        "xml_url": "https://buffer.com/resources/rss/",
+        "html_url": "https://buffer.com/resources/",
+        "category": "Marketing - Social",
+        "source": "user_added"
+    },
+    {
+        "title": "Salesforce Blog",
+        "xml_url": "https://www.salesforce.com/blog/feed/",
+        "html_url": "https://www.salesforce.com/blog/",
+        "category": "Marketing - CRM",
+        "source": "user_added"
+    }
+]
+
+# 11 Macro Categories
 CATEGORIES = [
     {
         "id": "ai_ml",
@@ -34,6 +101,12 @@ CATEGORIES = [
         "title": "🔒 Cybersecurity & Reverse Engineering",
         "opml_name": "cybersecurity.opml",
         "description": "An toàn thông tin, An ninh mạng, Khai thác lỗ hổng, Reverse Engineering & Hacking News."
+    },
+    {
+        "id": "marketing",
+        "title": "📣 Digital Marketing, SEO & Growth",
+        "opml_name": "marketing.opml",
+        "description": "Marketing kỹ thuật số, Tối ưu hóa công cụ tìm kiếm (SEO), Content Marketing, Social Media, Email Marketing, Analytics & CRM."
     },
     {
         "id": "tech_startups",
@@ -82,6 +155,11 @@ def classify_feed(item):
 
     if source == 'datehoer/hotToday':
         return 'hot_rankings'
+
+    # Marketing & SEO (Priority match)
+    if any(k in cat_orig for k in ['marketing', 'seo', 'growth', 'advertising', 'sem', 'content marketing', 'crm', 'social media marketing']) or \
+       any(k in title for k in ['marketing', 'seo', 'copywriting', 'copyblogger', 'growth hack', 'hubspot', 'moz', 'backlinko', 'neilpatel', 'searchengineland', 'social media examiner', 'salesforce', 'crm', 'conversion rate', 'email marketing']):
+        return 'marketing'
 
     # AI & ML
     if any(k in cat_orig for k in ['ai', 'machine learning', 'deep learning', 'llm', 'claude', 'gpt']) or \
@@ -143,7 +221,7 @@ def main():
     with open(SCRATCH_JSON, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    rss_feeds = data.get('rss_feeds', [])
+    rss_feeds = data.get('rss_feeds', []) + USER_MARKETING_FEEDS
     hot_spiders = data.get('hot_spiders', [])
 
     # Deduplicate RSS feeds by xml_url
@@ -170,6 +248,12 @@ def main():
         categorized[cat_id].append(item)
 
     total_all = len(unique_feeds) + len(hot_spiders)
+
+    print("\n--- Category Summary ---")
+    for cat in CATEGORIES:
+        cid = cat['id']
+        print(f"  {cat['title']}: {len(categorized[cid])} items")
+    print(f"TOTAL ITEMS: {total_all}\n")
 
     # 1. Create categories/ directory
     cats_dir = os.path.join(OUTPUT_DIR, 'categories')
@@ -236,7 +320,8 @@ def main():
                 "https://github.com/tuan3w/awesome-tech-rss",
                 "https://github.com/plenaryapp/awesome-rss-feeds",
                 "https://github.com/Olshansk/rss-feeds",
-                "https://github.com/datehoer/hotToday"
+                "https://github.com/datehoer/hotToday",
+                "User Submitted Feeds (Marketing & SEO)"
             ]
         },
         "categories": CATEGORIES,
@@ -266,15 +351,15 @@ def main():
     readme_path = os.path.join(OUTPUT_DIR, 'README.md')
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write("# 📡 Ultimate Master RSS Directory & Hot Trends Aggregator\n\n")
-        f.write("> **Kho lưu trữ tổng hợp nguồn tin RSS & Hot Trends thời gian thực lớn nhất**, gom nhóm và tối ưu từ 4 nguồn chính trên GitHub:\n")
+        f.write("> **Kho lưu trữ tổng hợp nguồn tin RSS & Hot Trends thời gian thực lớn nhất**, gom nhóm và tối ưu từ 4 nguồn chính trên GitHub + Các nguồn Marketing tuyển chọn:\n")
         f.write("> 1. [`tuan3w/awesome-tech-rss`](https://github.com/tuan3w/awesome-tech-rss)\n")
         f.write("> 2. [`plenaryapp/awesome-rss-feeds`](https://github.com/plenaryapp/awesome-rss-feeds)\n")
         f.write("> 3. [`Olshansk/rss-feeds`](https://github.com/Olshansk/rss-feeds)\n")
         f.write("> 4. [`datehoer/hotToday`](https://github.com/datehoer/hotToday)\n\n")
 
-        f.write("![RSS Feeds Badge](https://img.shields.io/badge/RSS_Feeds-830+-orange.svg) ")
+        f.write("![RSS Feeds Badge](https://img.shields.io/badge/RSS_Feeds-839+-orange.svg) ")
         f.write("![Hot Spiders Badge](https://img.shields.io/badge/Realtime_Spiders-77-blue.svg) ")
-        f.write("![Categories Badge](https://img.shields.io/badge/Categories-10-green.svg) ")
+        f.write("![Categories Badge](https://img.shields.io/badge/Categories-11-green.svg) ")
         f.write("![OPML Export](https://img.shields.io/badge/OPML-Supported-brightgreen.svg)\n\n")
 
         f.write("---\n\n")
@@ -339,8 +424,9 @@ def main():
     with open(license_path, 'w', encoding='utf-8') as f:
         f.write("MIT License\n\nCopyright (c) 2026 Ultimate RSS Hub\n\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.\n")
 
-    # Copy build_repo.py into output dir as well so it's fully self-contained!
-    shutil.copy2(__file__, os.path.join(OUTPUT_DIR, 'build_repo.py'))
+    target_script = os.path.join(OUTPUT_DIR, 'build_repo.py')
+    if not os.path.exists(target_script) or not os.path.samefile(__file__, target_script):
+        shutil.copy2(__file__, target_script)
 
     print(f"\n✅ Repository packaged successfully in: {OUTPUT_DIR}")
 

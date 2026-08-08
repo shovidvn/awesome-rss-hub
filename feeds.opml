@@ -246,6 +246,26 @@
       <outline type="rss" text="Million Mile Secrets" title="Million Mile Secrets" xmlUrl="http://feeds.feedburner.com/MillionMileSecrets" htmlUrl=""/>
       <outline type="rss" text="IOL section feed for News" title="IOL section feed for News" xmlUrl="http://rss.iol.io/iol/news" htmlUrl=""/>
     </outline>
+    <outline text="📣 Digital Marketing, SEO &amp; Growth" title="📣 Digital Marketing, SEO &amp; Growth">
+      <outline type="rss" text="Moz" title="Moz" xmlUrl="http://feeds.feedburner.com/seomoz" htmlUrl=""/>
+      <outline type="rss" text="Content Marketing Institute" title="Content Marketing Institute" xmlUrl="http://feeds.feedburner.com/cmi-content-marketing" htmlUrl=""/>
+      <outline type="rss" text="MarketingProfs" title="MarketingProfs" xmlUrl="http://rss.marketingprofs.com/marketingprofs/daily" htmlUrl=""/>
+      <outline type="rss" text="Marketo Marketing blog" title="Marketo Marketing blog" xmlUrl="http://feeds.feedburner.com/modernb2bmarketing" htmlUrl=""/>
+      <outline type="rss" text="Social Media Examiner | Social Media Marketing" title="Social Media Examiner | Social Media Marketing" xmlUrl="http://www.socialmediaexaminer.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="Hubspot" title="Hubspot" xmlUrl="http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=6307&amp;moduleid=8441&amp;maxcount=25" htmlUrl=""/>
+      <outline type="rss" text="Backlinko" title="Backlinko" xmlUrl="http://backlinko.com/feed" htmlUrl=""/>
+      <outline type="rss" text="The Duct Tape Marketing Podcast" title="The Duct Tape Marketing Podcast" xmlUrl="https://ducttape.libsyn.com/rss" htmlUrl=""/>
+      <outline type="rss" text="MakeUseOf" title="MakeUseOf" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl=""/>
+      <outline type="rss" text="HubSpot Marketing Blog" title="HubSpot Marketing Blog" xmlUrl="https://blog.hubspot.com/marketing/rss.xml" htmlUrl="https://blog.hubspot.com/marketing"/>
+      <outline type="rss" text="Copyblogger" title="Copyblogger" xmlUrl="https://copyblogger.com/feed/" htmlUrl="https://copyblogger.com"/>
+      <outline type="rss" text="Moz Blog" title="Moz Blog" xmlUrl="https://moz.com/blog/feed" htmlUrl="https://moz.com/blog"/>
+      <outline type="rss" text="Search Engine Land" title="Search Engine Land" xmlUrl="https://searchengineland.com/feed" htmlUrl="https://searchengineland.com"/>
+      <outline type="rss" text="Backlinko" title="Backlinko" xmlUrl="https://backlinko.com/feed" htmlUrl="https://backlinko.com"/>
+      <outline type="rss" text="Neil Patel Blog" title="Neil Patel Blog" xmlUrl="https://neilpatel.com/blog/feed/" htmlUrl="https://neilpatel.com/blog/"/>
+      <outline type="rss" text="Social Media Examiner" title="Social Media Examiner" xmlUrl="https://www.socialmediaexaminer.com/feed/" htmlUrl="https://www.socialmediaexaminer.com"/>
+      <outline type="rss" text="Buffer Resources" title="Buffer Resources" xmlUrl="https://buffer.com/resources/rss/" htmlUrl="https://buffer.com/resources/"/>
+      <outline type="rss" text="Salesforce Blog" title="Salesforce Blog" xmlUrl="https://www.salesforce.com/blog/feed/" htmlUrl="https://www.salesforce.com/blog/"/>
+    </outline>
     <outline text="🚀 Tech News, Eng Blogs &amp; Startups" title="🚀 Tech News, Eng Blogs &amp; Startups">
       <outline type="rss" text="The Decision Lab" title="The Decision Lab" xmlUrl="https://thedecisionlab.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Ness Labs" title="Ness Labs" xmlUrl="https://nesslabs.com/feed" htmlUrl=""/>
@@ -354,14 +374,11 @@
       <outline type="rss" text="ScienceAlert" title="ScienceAlert" xmlUrl="https://www.sciencealert.com/rss" htmlUrl=""/>
       <outline type="rss" text="Singularity Hub" title="Singularity Hub" xmlUrl="https://singularityhub.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Lesics" title="Lesics" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqZQJ4600a9wIfMPbYc60OQ" htmlUrl=""/>
-      <outline type="rss" text="Moz" title="Moz" xmlUrl="http://feeds.feedburner.com/seomoz" htmlUrl=""/>
       <outline type="rss" text="Neil Patel" title="Neil Patel" xmlUrl="http://feeds.feedburner.com/KISSmetrics" htmlUrl=""/>
       <outline type="rss" text="Quick Sprout" title="Quick Sprout" xmlUrl="http://www.quicksprout.com/feed/" htmlUrl=""/>
       <outline type="rss" text="John Egan" title="John Egan" xmlUrl="http://jwegan.com/feed/rss/" htmlUrl=""/>
       <outline type="rss" text="Convince and Convert" title="Convince and Convert" xmlUrl="http://www.convinceandconvert.com/feed/" htmlUrl=""/>
-      <outline type="rss" text="Hubspot" title="Hubspot" xmlUrl="http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=6307&amp;moduleid=8441&amp;maxcount=25" htmlUrl=""/>
       <outline type="rss" text="Seth Godin's Blog" title="Seth Godin's Blog" xmlUrl="http://sethgodin.typepad.com/seths_blog/atom.xml" htmlUrl=""/>
-      <outline type="rss" text="Backlinko" title="Backlinko" xmlUrl="http://backlinko.com/feed" htmlUrl=""/>
       <outline type="rss" text="HBR.org" title="HBR.org" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/" htmlUrl=""/>
       <outline type="rss" text="Into The Gloss - Beauty Tips, Trends, And Product Reviews" title="Into The Gloss - Beauty Tips, Trends, And Product Reviews" xmlUrl="https://feeds.feedburner.com/intothegloss/oqoU" htmlUrl=""/>
       <outline type="rss" text="Aestas Book Blog" title="Aestas Book Blog" xmlUrl="https://aestasbookblog.com/feed/" htmlUrl=""/>
@@ -436,10 +453,6 @@
       <outline type="rss" text="TechCentral" title="TechCentral" xmlUrl="https://techcentral.co.za/feed" htmlUrl=""/>
     </outline>
     <outline text="📈 Business, Economy &amp; Cryptocurrency" title="📈 Business, Economy &amp; Cryptocurrency">
-      <outline type="rss" text="Content Marketing Institute" title="Content Marketing Institute" xmlUrl="http://feeds.feedburner.com/cmi-content-marketing" htmlUrl=""/>
-      <outline type="rss" text="MarketingProfs" title="MarketingProfs" xmlUrl="http://rss.marketingprofs.com/marketingprofs/daily" htmlUrl=""/>
-      <outline type="rss" text="Marketo Marketing blog" title="Marketo Marketing blog" xmlUrl="http://feeds.feedburner.com/modernb2bmarketing" htmlUrl=""/>
-      <outline type="rss" text="Social Media Examiner | Social Media Marketing" title="Social Media Examiner | Social Media Marketing" xmlUrl="http://www.socialmediaexaminer.com/feed/" htmlUrl=""/>
       <outline type="rss" text="All News" title="All News" xmlUrl="https://www.investing.com/rss/news.rss" htmlUrl=""/>
       <outline type="rss" text="Bloomberg Originals" title="Bloomberg Originals" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Bloomberg" htmlUrl=""/>
       <outline type="rss" text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" htmlUrl=""/>
@@ -453,7 +466,6 @@
       <outline type="rss" text="Planet Money" title="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl=""/>
       <outline type="rss" text="Startup Stories - Mixergy" title="Startup Stories - Mixergy" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" htmlUrl=""/>
       <outline type="rss" text="The Blog of Author Tim Ferriss" title="The Blog of Author Tim Ferriss" xmlUrl="https://tim.blog/feed/" htmlUrl=""/>
-      <outline type="rss" text="The Duct Tape Marketing Podcast" title="The Duct Tape Marketing Podcast" xmlUrl="https://ducttape.libsyn.com/rss" htmlUrl=""/>
       <outline type="rss" text="The Growth Show" title="The Growth Show" xmlUrl="http://thegrowthshow.hubspot.libsynpro.com/" htmlUrl=""/>
       <outline type="rss" text="US Top News and Analysis" title="US Top News and Analysis" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" htmlUrl=""/>
       <outline type="rss" text="Yahoo Finance" title="Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" htmlUrl=""/>
@@ -733,7 +745,6 @@
       <outline type="rss" text="A Beautiful Mess" title="A Beautiful Mess" xmlUrl="https://abeautifulmess.com/feed" htmlUrl=""/>
       <outline type="rss" text="Centsational Style" title="Centsational Style" xmlUrl="https://centsationalstyle.com/feed/" htmlUrl=""/>
       <outline type="rss" text="How-To Geek" title="How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" htmlUrl=""/>
-      <outline type="rss" text="MakeUseOf" title="MakeUseOf" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl=""/>
       <outline type="rss" text="Oh Happy Day!" title="Oh Happy Day!" xmlUrl="http://ohhappyday.com/feed/" htmlUrl=""/>
       <outline type="rss" text="WonderHowTo" title="WonderHowTo" xmlUrl="https://www.wonderhowto.com/rss.xml" htmlUrl=""/>
       <outline type="rss" text="" title="" xmlUrl="https://www.fashionbeans.com/rss-feed/?category=fashion" htmlUrl=""/>

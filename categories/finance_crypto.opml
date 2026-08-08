@@ -5,10 +5,6 @@
   </head>
   <body>
     <outline text="📈 Business, Economy &amp; Cryptocurrency" title="📈 Business, Economy &amp; Cryptocurrency">
-      <outline type="rss" text="Content Marketing Institute" title="Content Marketing Institute" xmlUrl="http://feeds.feedburner.com/cmi-content-marketing" htmlUrl=""/>
-      <outline type="rss" text="MarketingProfs" title="MarketingProfs" xmlUrl="http://rss.marketingprofs.com/marketingprofs/daily" htmlUrl=""/>
-      <outline type="rss" text="Marketo Marketing blog" title="Marketo Marketing blog" xmlUrl="http://feeds.feedburner.com/modernb2bmarketing" htmlUrl=""/>
-      <outline type="rss" text="Social Media Examiner | Social Media Marketing" title="Social Media Examiner | Social Media Marketing" xmlUrl="http://www.socialmediaexaminer.com/feed/" htmlUrl=""/>
       <outline type="rss" text="All News" title="All News" xmlUrl="https://www.investing.com/rss/news.rss" htmlUrl=""/>
       <outline type="rss" text="Bloomberg Originals" title="Bloomberg Originals" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Bloomberg" htmlUrl=""/>
       <outline type="rss" text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" htmlUrl=""/>
@@ -22,7 +18,6 @@
       <outline type="rss" text="Planet Money" title="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl=""/>
       <outline type="rss" text="Startup Stories - Mixergy" title="Startup Stories - Mixergy" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" htmlUrl=""/>
       <outline type="rss" text="The Blog of Author Tim Ferriss" title="The Blog of Author Tim Ferriss" xmlUrl="https://tim.blog/feed/" htmlUrl=""/>
-      <outline type="rss" text="The Duct Tape Marketing Podcast" title="The Duct Tape Marketing Podcast" xmlUrl="https://ducttape.libsyn.com/rss" htmlUrl=""/>
       <outline type="rss" text="The Growth Show" title="The Growth Show" xmlUrl="http://thegrowthshow.hubspot.libsynpro.com/" htmlUrl=""/>
       <outline type="rss" text="US Top News and Analysis" title="US Top News and Analysis" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" htmlUrl=""/>
       <outline type="rss" text="Yahoo Finance" title="Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" htmlUrl=""/>

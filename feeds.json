@@ -1,14 +1,15 @@
 {
   "metadata": {
     "title": "Master Awesome RSS Directory",
-    "total_rss_feeds": 830,
+    "total_rss_feeds": 839,
     "total_hot_spiders": 77,
-    "total_items": 907,
+    "total_items": 916,
     "sources": [
       "https://github.com/tuan3w/awesome-tech-rss",
       "https://github.com/plenaryapp/awesome-rss-feeds",
       "https://github.com/Olshansk/rss-feeds",
-      "https://github.com/datehoer/hotToday"
+      "https://github.com/datehoer/hotToday",
+      "User Submitted Feeds (Marketing & SEO)"
     ]
   },
   "categories": [
@@ -35,6 +36,12 @@
       "title": "🔒 Cybersecurity & Reverse Engineering",
       "opml_name": "cybersecurity.opml",
       "description": "An toàn thông tin, An ninh mạng, Khai thác lỗ hổng, Reverse Engineering & Hacking News."
+    },
+    {
+      "id": "marketing",
+      "title": "📣 Digital Marketing, SEO & Growth",
+      "opml_name": "marketing.opml",
+      "description": "Marketing kỹ thuật số, Tối ưu hóa công cụ tìm kiếm (SEO), Content Marketing, Social Media, Email Marketing, Analytics & CRM."
     },
     {
       "id": "tech_startups",
@@ -1242,7 +1249,7 @@
       "xml_url": "http://feeds.feedburner.com/seomoz",
       "category": "Tech",
       "language": "en",
-      "classified_category": "tech_startups"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-tech-rss",
@@ -1251,7 +1258,7 @@
       "xml_url": "http://feeds.feedburner.com/cmi-content-marketing",
       "category": "Tech",
       "language": "en",
-      "classified_category": "finance_crypto"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-tech-rss",
@@ -1269,7 +1276,7 @@
       "xml_url": "http://rss.marketingprofs.com/marketingprofs/daily",
       "category": "Tech",
       "language": "en",
-      "classified_category": "finance_crypto"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-tech-rss",
@@ -1278,7 +1285,7 @@
       "xml_url": "http://feeds.feedburner.com/modernb2bmarketing",
       "category": "Tech",
       "language": "en",
-      "classified_category": "finance_crypto"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-tech-rss",
@@ -1296,7 +1303,7 @@
       "xml_url": "http://www.socialmediaexaminer.com/feed/",
       "category": "Tech",
       "language": "en",
-      "classified_category": "finance_crypto"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-tech-rss",
@@ -1323,7 +1330,7 @@
       "xml_url": "http://blog.hubspot.com/CMS/UI/Modules/BizBlogger/rss.aspx?tabid=6307&moduleid=8441&maxcount=25",
       "category": "Tech",
       "language": "en",
-      "classified_category": "tech_startups"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-tech-rss",
@@ -1341,7 +1348,7 @@
       "xml_url": "http://backlinko.com/feed",
       "category": "Tech",
       "language": "en",
-      "classified_category": "tech_startups"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-tech-rss",
@@ -2295,7 +2302,7 @@
       "xml_url": "https://ducttape.libsyn.com/rss",
       "category": "Business & Economy",
       "language": "en",
-      "classified_category": "finance_crypto"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-rss-feeds",
@@ -3222,7 +3229,7 @@
       "xml_url": "https://www.makeuseof.com/feed/",
       "category": "DIY",
       "language": "en",
-      "classified_category": "lifestyle"
+      "classified_category": "marketing"
     },
     {
       "source": "awesome-rss-feeds",
@@ -7543,6 +7550,78 @@
       "category": "AI & Machine Learning",
       "language": "en",
       "classified_category": "ai_ml"
+    },
+    {
+      "title": "HubSpot Marketing Blog",
+      "xml_url": "https://blog.hubspot.com/marketing/rss.xml",
+      "html_url": "https://blog.hubspot.com/marketing",
+      "category": "Marketing - Content",
+      "source": "user_added",
+      "classified_category": "marketing"
+    },
+    {
+      "title": "Copyblogger",
+      "xml_url": "https://copyblogger.com/feed/",
+      "html_url": "https://copyblogger.com",
+      "category": "Marketing - Content",
+      "source": "user_added",
+      "classified_category": "marketing"
+    },
+    {
+      "title": "Moz Blog",
+      "xml_url": "https://moz.com/blog/feed",
+      "html_url": "https://moz.com/blog",
+      "category": "Marketing - SEO",
+      "source": "user_added",
+      "classified_category": "marketing"
+    },
+    {
+      "title": "Search Engine Land",
+      "xml_url": "https://searchengineland.com/feed",
+      "html_url": "https://searchengineland.com",
+      "category": "Marketing - SEO",
+      "source": "user_added",
+      "classified_category": "marketing"
+    },
+    {
+      "title": "Backlinko",
+      "xml_url": "https://backlinko.com/feed",
+      "html_url": "https://backlinko.com",
+      "category": "Marketing - SEO",
+      "source": "user_added",
+      "classified_category": "marketing"
+    },
+    {
+      "title": "Neil Patel Blog",
+      "xml_url": "https://neilpatel.com/blog/feed/",
+      "html_url": "https://neilpatel.com/blog/",
+      "category": "Marketing - Content",
+      "source": "user_added",
+      "classified_category": "marketing"
+    },
+    {
+      "title": "Social Media Examiner",
+      "xml_url": "https://www.socialmediaexaminer.com/feed/",
+      "html_url": "https://www.socialmediaexaminer.com",
+      "category": "Marketing - Social",
+      "source": "user_added",
+      "classified_category": "marketing"
+    },
+    {
+      "title": "Buffer Resources",
+      "xml_url": "https://buffer.com/resources/rss/",
+      "html_url": "https://buffer.com/resources/",
+      "category": "Marketing - Social",
+      "source": "user_added",
+      "classified_category": "marketing"
+    },
+    {
+      "title": "Salesforce Blog",
+      "xml_url": "https://www.salesforce.com/blog/feed/",
+      "html_url": "https://www.salesforce.com/blog/",
+      "category": "Marketing - CRM",
+      "source": "user_added",
+      "classified_category": "marketing"
     },
     {
       "source": "datehoer/hotToday",
